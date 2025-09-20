@@ -1,0 +1,2926 @@
+[
+  {
+    "message": "User logged elevated blood pressure (150/95) + high stress level (8/10) + evening time detected",
+    "nudge": "Your blood pressure is elevated and stress levels are high. Try a 5-minute breathing exercise before bed - deep breaths can lower BP by 10-15 points."
+  },
+  {
+    "message": "Missed diabetes medication yesterday + blood glucose trending upward + morning routine",
+    "nudge": "Consistency with medication is crucial for glucose control. Set a daily phone reminder - your best glucose weeks happened with consistent timing."
+  },
+  {
+    "message": "High sodium intake logged (3500mg) + history of fluid retention + heart condition",
+    "nudge": "Today's sodium intake is high. Balance it with potassium-rich foods like bananas or spinach - your heart will thank you."
+  },
+  {
+    "message": "Sedentary day detected + post-meal glucose spike (180 mg/dL) + afternoon time",
+    "nudge": "A 10-minute walk after meals can reduce glucose by 20-30 points. Your body processes sugar better with light movement."
+  },
+  {
+    "message": "Sleep quality poor (4/10) + multiple wake-ups + chronic pain condition",
+    "nudge": "Poor sleep worsens pain perception. Try avoiding screens 1 hour before bed - your best sleep coincided with this habit."
+  },
+  {
+    "message": "Weight gain trend (+3 lbs over 2 weeks) + reduced activity + diabetes management",
+    "nudge": "Small weight changes can affect blood sugar control. Even 15 minutes of daily activity can reverse this trend."
+  },
+  {
+    "message": "Skipped heart medication 2 days + irregular heartbeat detected + morning",
+    "nudge": "Your heart rhythm responds well to consistent medication. Missing doses can trigger irregularities - let's get back on track."
+  },
+  {
+    "message": "Low mood score (3/10) + skipped health activities + depression history",
+    "nudge": "Managing chronic conditions affects mood - that's normal. Your peer support group meets today. Connection often helps both mood and motivation."
+  },
+  {
+    "message": "Blood pressure medication due in 2 hours + travel schedule + timezone change",
+    "nudge": "Traveling can disrupt medication timing. Set an alarm for your local time to maintain consistent blood levels."
+  },
+  {
+    "message": "Pre-meal glucose elevated (160 mg/dL) + lunch approaching + carb-heavy previous meal",
+    "nudge": "Your glucose is elevated before lunch. Consider protein and vegetables - your body handles these better when levels are high."
+  },
+  {
+    "message": "Heart rate below target zone for 3 days + weather improving + cardiac rehabilitation",
+    "nudge": "Your heart loves consistent activity. With today's nice weather, even 15 minutes outside can boost cardiovascular fitness."
+  },
+  {
+    "message": "Stress eating pattern detected + emotional trigger logged + weight management goal",
+    "nudge": "Stress can trigger eating patterns. When overwhelmed, try the 5-minute rule - wait and reassess your hunger level."
+  },
+  {
+    "message": "Inhaler usage increased 50% this week + air quality poor + asthma management",
+    "nudge": "Poor air quality is affecting your breathing. Consider indoor activities today and ensure your rescue inhaler is nearby."
+  },
+  {
+    "message": "Pain level increased (7/10) + weather pressure dropping + arthritis condition",
+    "nudge": "Barometric pressure changes can increase joint pain. Gentle stretching and warm compresses often provide relief."
+  },
+  {
+    "message": "Multiple risk factors detected + missed medications + poor sleep + high stress",
+    "nudge": "Your Stability Score suggests increased risk in 48 hours. Focus on medication consistency and stress management - small actions prevent bigger issues."
+  },
+  {
+    "message": "Consistent good behaviors for 1 week + stable vitals + medication adherence 100%",
+    "nudge": "Excellent work! Your consistency has kept your Stability Score in the green zone. You're proving that steady habits create lasting improvements."
+  },
+  {
+    "message": "Cholesterol medication missed + high-fat meal logged + cardiovascular risk",
+    "nudge": "Cholesterol management requires consistency. After high-fat meals, your medication becomes even more important for protecting your arteries."
+  },
+  {
+    "message": "Anxiety level high (8/10) + rapid heartbeat + breathing shallow",
+    "nudge": "High anxiety can affect heart rhythm. Try the 4-7-8 breathing technique: inhale 4, hold 7, exhale 8. It activates your calm response."
+  },
+  {
+    "message": "Diabetes supplies running low + weekend approaching + pharmacy closed Sunday",
+    "nudge": "Your test strips are running low and it's Friday. Pharmacies have limited weekend hours - consider refilling today."
+  },
+  {
+    "message": "Exercise streak broken after 10 days + motivation dropping + fitness goal",
+    "nudge": "A 10-day streak shows your commitment! One missed day doesn't erase progress. Even 5 minutes of movement today restarts your momentum."
+  },
+  {
+    "message": "Blood sugar trending downward + meal delayed + diabetes management",
+    "nudge": "Your glucose is dropping and lunch is delayed. Keep glucose tablets handy and consider a small healthy snack to prevent a low."
+  },
+  {
+    "message": "COPD symptoms worsening + air quality alert + rescue inhaler usage up",
+    "nudge": "Today's air quality alert may be triggering your COPD symptoms. Stay indoors when possible and keep your rescue medications close."
+  },
+  {
+    "message": "Hypertension readings stable for 2 weeks + lifestyle changes implemented",
+    "nudge": "Your blood pressure stability shows your lifestyle changes are working! Consistent readings like these reduce long-term cardiovascular risk."
+  },
+  {
+    "message": "Medication side effects reported + nausea + morning dose timing",
+    "nudge": "Morning nausea with medication is common. Try taking it with food or ask your doctor about evening dosing alternatives."
+  },
+  {
+    "message": "Thyroid medication timing inconsistent + energy levels fluctuating",
+    "nudge": "Thyroid medication works best when taken consistently on an empty stomach. Your energy levels stabilize with regular timing."
+  },
+  {
+    "message": "Pain medication overuse pattern + chronic back pain + tolerance concerns",
+    "nudge": "Frequent pain medication use can lead to tolerance. Consider complementary approaches like heat therapy or gentle stretching between doses."
+  },
+  {
+    "message": "Social isolation score high + depression symptoms + chronic illness fatigue",
+    "nudge": "Chronic illness can feel isolating. Your online support group is active today - even reading others' experiences can provide comfort."
+  },
+  {
+    "message": "Meal prep completed + diabetes management + portion control goals",
+    "nudge": "Great job meal prepping! Pre-portioned meals help maintain steady glucose levels and take decision fatigue out of healthy eating."
+  },
+  {
+    "message": "Doctor appointment tomorrow + questions list incomplete + chronic condition management",
+    "nudge": "Your appointment is tomorrow. Prepare a list of symptoms, medication effects, and concerns - it helps you get the most from your visit."
+  },
+  {
+    "message": "Weather forecast shows storm + joint pain history + barometric pressure sensitivity",
+    "nudge": "Tomorrow's storm may trigger joint pain. Consider taking anti-inflammatory medication tonight and preparing heating pads for comfort."
+  },
+  {
+    "message": "Flu season starting + immunocompromised status + vaccination due",
+    "nudge": "Flu season is here and your condition increases risk. Your vaccination is due - protecting yourself protects your chronic disease management too."
+  },
+  {
+    "message": "Travel planned next week + medication quantities + time zone changes",
+    "nudge": "Travel is next week! Pack extra medications and research pharmacy locations at your destination. Time zone changes may affect dosing schedules."
+  },
+  {
+    "message": "Stress test scheduled + anxiety about procedure + cardiac monitoring",
+    "nudge": "Stress tests can feel overwhelming, but they provide valuable heart health information. The procedure is routine and helps optimize your care."
+  },
+  {
+    "message": "Blood work results available + cholesterol levels + cardiovascular risk assessment",
+    "nudge": "Your lab results are ready in the patient portal. Understanding your numbers helps you make informed decisions about your health."
+  },
+  {
+    "message": "Emergency contact information outdated + medical alert needs + chronic condition safety",
+    "nudge": "Your emergency contacts haven't been updated in 6 months. Current information ensures the right people are reached if needed."
+  },
+  {
+    "message": "Physical therapy exercises skipped 3 days + joint mobility + chronic pain management",
+    "nudge": "Physical therapy exercises maintain joint mobility. Even on difficult days, gentle movements prevent stiffness and maintain progress."
+  },
+  {
+    "message": "Seasonal depression symptoms emerging + daylight hours decreasing + chronic illness",
+    "nudge": "Shorter days can affect mood and chronic disease management. Light therapy in the morning can help maintain your circadian rhythm."
+  },
+  {
+    "message": "Insurance coverage changing + prescription costs + medication access",
+    "nudge": "Your insurance coverage changes next month. Check if your medications are covered and explore patient assistance programs if needed."
+  },
+  {
+    "message": "Holiday season approaching + dietary challenges + diabetes management",
+    "nudge": "Holiday foods can challenge glucose control. Plan ahead with portion strategies and never skip meals before events to avoid overindulgence."
+  },
+  {
+    "message": "Work stress increasing + hypertension + overtime hours",
+    "nudge": "Work stress directly impacts blood pressure. Take short breaks every hour and practice desk-based breathing exercises during busy periods."
+  },
+  {
+    "message": "Migraine pattern detected + weather changes + trigger identification",
+    "nudge": "Weather changes seem to trigger your migraines. Track barometric pressure along with symptoms to identify patterns and plan prevention."
+  },
+  {
+    "message": "Kidney function test due + diabetes complications + annual screening",
+    "nudge": "Annual kidney function tests are crucial with diabetes. Early detection of changes allows for protective interventions before problems develop."
+  },
+  {
+    "message": "Exercise tolerance improving + cardiac rehabilitation + fitness milestones",
+    "nudge": "Your exercise tolerance is improving! This indicates your heart is getting stronger. Gradual progress reduces future cardiovascular events."
+  },
+  {
+    "message": "Allergy season starting + asthma triggers + environmental controls",
+    "nudge": "Allergy season can worsen asthma symptoms. Consider starting allergy medications early and keep windows closed on high pollen days."
+  },
+  {
+    "message": "Wound healing slowly + diabetes management + circulation concerns",
+    "nudge": "Slow wound healing needs attention with diabetes. Keep the area clean and dry, and contact your doctor if healing doesn't progress."
+  },
+  {
+    "message": "Social support system strong + peer connections + chronic illness management",
+    "nudge": "Your strong support network is a health asset! People with good social connections have better chronic disease outcomes and lower stress."
+  },
+  {
+    "message": "Technology helping medication adherence + smart pill dispenser + consistency improvement",
+    "nudge": "Your smart pill dispenser shows 95% adherence this month! Technology can be a powerful ally in managing complex medication schedules."
+  },
+  {
+    "message": "Sleep apnea symptoms worsening + CPAP compliance + cardiovascular protection",
+    "nudge": "Consistent CPAP use protects your heart and brain. Sleep apnea increases cardiovascular risk, but treatment dramatically reduces these dangers."
+  },
+  {
+    "message": "Nutrition counseling scheduled + dietary changes + chronic disease management",
+    "nudge": "Nutrition counseling can transform chronic disease management. Come prepared with a food diary and specific questions about meal planning."
+  },
+  {
+    "message": "Mental health check-in overdue + chronic illness stress + emotional wellbeing",
+    "nudge": "Managing chronic illness affects mental health. Regular mental health check-ins are as important as physical health monitoring for overall wellbeing."
+  },
+  {
+    "message": "Medication interactions possible + new prescription + safety screening",
+    "nudge": "New medications can interact with existing ones. Always inform doctors about all medications, supplements, and over-the-counter drugs you take."
+  }
+
+
+  // MEDICATION MANAGEMENT (100 examples)
+  {
+    "message": "Blood pressure medication missed 2 consecutive days + BP reading 145/92 + morning routine",
+    "nudge": "Missed medications can cause rebound hypertension. Your BP is elevated - take today's dose and set a daily alarm to prevent future gaps."
+  },
+  {
+    "message": "Diabetes medication taken with high-fat meal + glucose spike to 220 mg/dL + absorption delay",
+    "nudge": "High-fat meals can delay medication absorption. Take your diabetes medication 30 minutes before fatty meals for better glucose control."
+  },
+  {
+    "message": "Heart medication due in 15 minutes + travel schedule + different timezone",
+    "nudge": "Medication timing is crucial for heart rhythm. Adjust your alarm for local time - consistency protects against irregular heartbeats."
+  },
+  {
+    "message": "Cholesterol medication adherence 60% this month + lab results due next week",
+    "nudge": "Inconsistent statin use affects your cholesterol levels. Take it daily this week before your lab draw for accurate results."
+  },
+  {
+    "message": "Thyroid medication taken with coffee + absorption interference + morning routine",
+    "nudge": "Coffee interferes with thyroid medication absorption. Take your medication with water 30-60 minutes before your morning coffee."
+  },
+  {
+    "message": "Inhaler technique incorrect based on video review + asthma control suboptimal",
+    "nudge": "Proper inhaler technique delivers more medication to your lungs. Practice the steps: shake, exhale, seal lips, inhale slowly and deeply."
+  },
+  {
+    "message": "Pain medication refill delayed + chronic pain condition + weekend approaching",
+    "nudge": "Pain medication gaps can cause rebound pain. Pharmacies have limited weekend hours - refill today to avoid interruption."
+  },
+  {
+    "message": "Multiple medications due simultaneously + pill burden + adherence dropping",
+    "nudge": "Managing multiple medications is challenging. Consider a pill organizer or ask your pharmacist about combination formulations."
+  },
+  {
+    "message": "Antidepressant missed 3 days + mood symptoms returning + discontinuation syndrome risk",
+    "nudge": "Sudden antidepressant stops can cause withdrawal symptoms. Resume your medication and contact your doctor about any side effects."
+  },
+  {
+    "message": "Blood thinner dosing irregular + INR test overdue + bleeding risk assessment",
+    "nudge": "Blood thinner consistency prevents clots and bleeding. Your INR test is overdue - schedule it this week to ensure safe dosing."
+  },
+  {
+    "message": "Medication side effects mild + treatment adherence declining + effectiveness concerns",
+    "nudge": "Mild side effects often improve with time. Your medication is working - discuss concerns with your doctor before stopping."
+  },
+  {
+    "message": "Generic medication substitution + patient concerns about effectiveness + cost savings",
+    "nudge": "Generic medications have the same active ingredients as brand names. They're FDA-approved for safety and effectiveness while saving money."
+  },
+  {
+    "message": "Medication interaction warning + new prescription added + safety screening needed",
+    "nudge": "New medications can interact with existing ones. Review all your medications with your pharmacist before starting anything new."
+  },
+  {
+    "message": "Pregnancy planning + medication safety review needed + chronic condition management",
+    "nudge": "Some medications aren't safe during pregnancy. Schedule a preconception visit to review safe alternatives for your conditions."
+  },
+  {
+    "message": "Medication costs increasing + insurance formulary changes + patient assistance available",
+    "nudge": "Medication costs can be challenging. Ask your doctor about generic alternatives or patient assistance programs to reduce expenses."
+  },
+  {
+    "message": "Travel medications packed + customs documentation + prescription labels current",
+    "nudge": "International travel with medications requires preparation. Carry prescriptions in original bottles with current labels for customs."
+  },
+  {
+    "message": "Liquid medication storage + temperature requirements + effectiveness preservation",
+    "nudge": "Some liquid medications need refrigeration. Store yours properly to maintain effectiveness - check the label for storage instructions."
+  },
+  {
+    "message": "Medication timing with meals + absorption optimization + therapeutic levels",
+    "nudge": "Medication timing with food affects absorption. Take yours as directed - with or without food - for optimal therapeutic benefit."
+  },
+  {
+    "message": "Elderly medication management + cognitive changes + safety concerns",
+    "nudge": "Managing medications can become harder with age. Consider a pill organizer or ask family to help monitor your medication routine."
+  },
+  {
+    "message": "Medication disposal + expired prescriptions + safety hazards",
+    "nudge": "Expired medications can be dangerous. Use community take-back programs or mix with cat litter before disposal to prevent misuse."
+  },
+  {
+    "message": "Pediatric medication dosing + weight changes + safety adjustments needed",
+    "nudge": "Children's medication doses change with growth. Your child's weight has increased - ask the doctor about dose adjustments."
+  },
+  {
+    "message": "Medication allergies updated + medical alert needs + emergency preparedness",
+    "nudge": "Your medication allergy list has been updated in your chart. Consider wearing a medical alert bracelet for emergency situations."
+  },
+  {
+    "message": "Specialty medication delivery + cold chain requirements + handling instructions",
+    "nudge": "Your specialty medication requires special handling. Be home for delivery and refrigerate immediately to maintain effectiveness."
+  },
+  {
+    "message": "Medication review appointment + polypharmacy concerns + simplification opportunities",
+    "nudge": "You're taking many medications. Your medication review appointment can identify opportunities to simplify your regimen safely."
+  },
+  {
+    "message": "Over-the-counter interactions + prescription medications + safety screening",
+    "nudge": "Over-the-counter medications can interact with prescriptions. Check with your pharmacist before adding any new supplements or OTC drugs."
+  },
+  {
+    "message": "Medication splitting + cost savings + proper technique needed",
+    "nudge": "Pill splitting can save money, but technique matters. Use a proper pill splitter and only split scored tablets as directed."
+  },
+  {
+    "message": "Medication adherence technology + smart bottles + reminder systems",
+    "nudge": "Technology can help medication adherence. Smart pill bottles or phone apps can remind you and track your medication taking."
+  },
+  {
+    "message": "Seasonal medication adjustments + allergy season + preventive treatment",
+    "nudge": "Allergy season is starting. Begin your preventive medications 2 weeks early for better symptom control throughout the season."
+  },
+  {
+    "message": "Medication education + new diagnosis + treatment understanding",
+    "nudge": "Understanding your new medication helps adherence. Ask your pharmacist to explain how it works and what to expect."
+  },
+  {
+    "message": "Medication synchronization + multiple prescriptions + convenience improvement",
+    "nudge": "Picking up medications multiple times monthly is inconvenient. Ask about medication synchronization to get everything together."
+  },
+  {
+    "message": "Emergency medication supply + natural disasters + preparedness planning",
+    "nudge": "Natural disasters can disrupt medication access. Keep a 30-day emergency supply and copies of prescriptions in your disaster kit."
+  },
+  {
+    "message": "Medication compliance packaging + complex regimens + adherence support",
+    "nudge": "Complex medication schedules are hard to follow. Blister packaging can organize your medications by time and date for better adherence."
+  },
+  {
+    "message": "Pharmacist consultation + medication optimization + therapeutic monitoring",
+    "nudge": "Pharmacists are medication experts. Schedule a consultation to optimize your therapy and discuss any concerns or questions."
+  },
+  {
+    "message": "Medication trial period + side effect monitoring + adjustment expectations",
+    "nudge": "New medications often need adjustment periods. Track side effects and benefits for 4-6 weeks before deciding if changes are needed."
+  },
+  {
+    "message": "Compounded medication + special formulations + adherence customization",
+    "nudge": "Standard medications don't work for everyone. Compounded formulations can be customized for your specific needs and preferences."
+  },
+  {
+    "message": "Medication storage + environmental factors + potency preservation",
+    "nudge": "Proper medication storage maintains potency. Keep yours in cool, dry places away from bathroom humidity and kitchen heat."
+  },
+  {
+    "message": "Medication timing + circadian rhythms + therapeutic optimization",
+    "nudge": "Medication timing can affect effectiveness. Some work better in morning, others at bedtime - follow timing instructions for best results."
+  },
+  {
+    "message": "Medication brand switching + insurance coverage + consistency concerns",
+    "nudge": "Insurance may require brand switches. Most generics work identically, but notify your doctor if you notice any changes in effectiveness."
+  },
+  {
+    "message": "Medication samples + bridge therapy + prescription transition",
+    "nudge": "Medication samples can bridge coverage gaps. Use them as directed and fill your prescription before samples run out."
+  },
+  {
+    "message": "Medication counseling + complex instructions + comprehension verification",
+    "nudge": "Medication instructions can be complex. Ask your pharmacist to repeat important information and provide written instructions for reference."
+  },
+  {
+    "message": "Injectable medication + technique training + safety protocols",
+    "nudge": "Injectable medications require proper technique. Practice with your healthcare provider and rotate injection sites to prevent tissue damage."
+  },
+  {
+    "message": "Medication response monitoring + therapeutic levels + dosage adjustments",
+    "nudge": "Some medications require blood level monitoring. Keep your lab appointments to ensure you're getting the right dose for effectiveness."
+  },
+  {
+    "message": "Medication reconciliation + hospital discharge + accuracy verification",
+    "nudge": "Hospital stays can change medications. Review your discharge medications carefully and ask about any differences from your home regimen."
+  },
+  {
+    "message": "Medication adherence barriers + financial concerns + assistance programs",
+    "nudge": "Medication costs shouldn't prevent treatment. Many manufacturers offer patient assistance programs for people who qualify financially."
+  },
+  {
+    "message": "Medication effectiveness timeline + patience required + realistic expectations",
+    "nudge": "Some medications take weeks to show full effects. Be patient with new treatments - benefits often emerge gradually over time."
+  },
+  {
+    "message": "Medication lifestyle interactions + alcohol consumption + safety warnings",
+    "nudge": "Some medications don't mix with alcohol. Check your medication labels and ask your pharmacist about alcohol interactions."
+  },
+  {
+    "message": "Medication splitting contraindications + extended release + safety concerns",
+    "nudge": "Extended-release medications shouldn't be split or crushed. This can cause dangerous dose dumping - always take them whole."
+  },
+  {
+    "message": "Medication storage temperature + heat sensitivity + summer precautions",
+    "nudge": "Hot cars can damage medications. Never leave prescriptions in vehicles during summer - heat can make them ineffective or dangerous."
+  },
+  {
+    "message": "Medication administration timing + food interactions + absorption optimization",
+    "nudge": "Some medications work better on empty stomachs, others with food. Follow the specific instructions for each of your medications."
+  },
+  {
+    "message": "Medication compliance rewards + positive reinforcement + motivation enhancement",
+    "nudge": "Great job taking your medications consistently! Your adherence this month shows real commitment to your health goals."
+  },
+  {
+    "message": "Medication refill automation + convenience services + adherence support",
+    "nudge": "Automatic refills prevent medication gaps. Sign up for this service to ensure your medications are ready when you need them."
+  },
+  {
+    "message": "Medication dose escalation + gradual increases + side effect minimization",
+    "nudge": "Starting with lower doses reduces side effects. Your doctor will gradually increase the dose to find your optimal therapeutic level."
+  },
+  {
+    "message": "Medication discontinuation + tapering schedules + withdrawal prevention",
+    "nudge": "Some medications need gradual reduction to prevent withdrawal. Never stop suddenly - follow your doctor's tapering schedule."
+  },
+  {
+    "message": "Medication formulation changes + liquid to tablets + administration preferences",
+    "nudge": "Different formulations may work better for you. Discuss options like liquids, tablets, or patches with your healthcare provider."
+  },
+  {
+    "message": "Medication interaction checker + new prescriptions + safety verification",
+    "nudge": "New prescriptions can interact with existing medications. Use interaction checkers or ask your pharmacist to review everything together."
+  },
+  {
+    "message": "Medication emergency contacts + refill procedures + access continuity",
+    "nudge": "Know your pharmacy's emergency procedures. After-hours medication needs may require different locations or emergency protocols."
+  },
+  {
+    "message": "Medication memory aids + visual cues + routine integration",
+    "nudge": "Memory aids help medication adherence. Put medications near daily activities like toothbrushes or coffee makers as visual reminders."
+  },
+  {
+    "message": "Medication effectiveness tracking + symptom monitoring + treatment optimization",
+    "nudge": "Track how medications affect your symptoms. This information helps your doctor optimize your treatment for better results."
+  },
+  {
+    "message": "Medication safety updates + new warnings + information dissemination",
+    "nudge": "Medication safety information evolves. Stay informed about new warnings or precautions for medications you're taking."
+  },
+  {
+    "message": "Medication combination therapy + synergistic effects + treatment enhancement",
+    "nudge": "Some medications work better together. Your combination therapy targets your condition from multiple angles for better control."
+  },
+  {
+    "message": "Medication breakthrough symptoms + rescue medications + emergency preparedness",
+    "nudge": "Keep rescue medications accessible. Breakthrough symptoms can occur despite regular treatment - be prepared with fast-acting options."
+  },
+  {
+    "message": "Medication genetic testing + personalized dosing + precision medicine",
+    "nudge": "Genetic testing can guide medication choices. Your DNA affects how you process drugs - this information helps personalize your treatment."
+  },
+  {
+    "message": "Medication administration devices + inhalers and injectors + technique optimization",
+    "nudge": "Proper device technique ensures full medication delivery. Regular technique checks with your healthcare provider maximize treatment benefits."
+  },
+  {
+    "message": "Medication dosing frequency + compliance improvement + regimen simplification",
+    "nudge": "Once-daily medications improve adherence. Ask your doctor if your current medications are available in extended-release formulations."
+  },
+  {
+    "message": "Medication therapeutic monitoring + lab values + dose adjustments",
+    "nudge": "Lab monitoring ensures medication safety. Keep your appointments - results guide dosing decisions and prevent complications."
+  },
+  {
+    "message": "Medication lifestyle modifications + complementary approaches + holistic treatment",
+    "nudge": "Medications work best with healthy lifestyle choices. Combine your prescriptions with diet, exercise, and stress management for optimal results."
+  },
+  {
+    "message": "Medication adherence technology + digital health tools + modern solutions",
+    "nudge": "Digital tools can enhance medication management. Apps, smart bottles, and reminder systems make staying on track easier."
+  },
+  {
+    "message": "Medication cost assistance + manufacturer programs + financial relief",
+    "nudge": "Medication costs can be overwhelming. Many drug manufacturers offer copay cards or assistance programs to reduce your out-of-pocket expenses."
+  },
+  {
+    "message": "Medication storage organization + multi-drug regimens + error prevention",
+    "nudge": "Organize medications to prevent errors. Separate morning, noon, and evening doses clearly to avoid confusion or double-dosing."
+  },
+  {
+    "message": "Medication education resources + patient information + informed decisions",
+    "nudge": "Understanding your medications empowers better decisions. Ask for written information and reliable online resources about your prescriptions."
+  },
+  {
+    "message": "Medication compliance tracking + objective measures + treatment success",
+    "nudge": "Your medication adherence data shows excellent commitment. Consistent use like this directly correlates with better health outcomes."
+  },
+  {
+    "message": "Medication delivery services + convenience options + adherence support",
+    "nudge": "Medication delivery services can improve adherence. Home delivery eliminates trips to the pharmacy and ensures you don't run out."
+  },
+  {
+    "message": "Medication expiration monitoring + potency concerns + safety replacement",
+    "nudge": "Check medication expiration dates regularly. Expired medications may lose potency or become unsafe - replace them promptly."
+  },
+  {
+    "message": "Medication allergy documentation + emergency information + safety protocols",
+    "nudge": "Keep medication allergy information current. Emergency responders need accurate allergy lists to provide safe treatment."
+  },
+  {
+    "message": "Medication adherence counseling + behavioral support + success strategies",
+    "nudge": "Medication adherence counseling can help develop personalized strategies. Everyone faces different barriers - find what works for you."
+  },
+  {
+    "message": "Medication synchronization programs + convenience enhancement + adherence improvement",
+    "nudge": "Medication synchronization aligns all your refills to the same date. This reduces pharmacy trips and makes medication management simpler."
+  },
+  {
+    "message": "Medication dose timing + biological rhythms + therapeutic optimization",
+    "nudge": "Your body's rhythms affect medication effectiveness. Taking medications at prescribed times optimizes their therapeutic benefits."
+  },
+  {
+    "message": "Medication compliance packaging + dose organization + error reduction",
+    "nudge": "Blister packaging organizes medications by dose time. This system reduces errors and makes it easy to see if you've missed doses."
+  },
+  {
+    "message": "Medication effectiveness evaluation + treatment goals + optimization opportunities",
+    "nudge": "Regular medication effectiveness reviews ensure optimal treatment. If goals aren't met, adjustments can improve your outcomes."
+  },
+  {
+    "message": "Medication administration support + caregiver involvement + adherence assistance",
+    "nudge": "Caregiver support improves medication adherence. Include trusted family members in your medication management plan."
+  },
+  {
+    "message": "Medication storage security + controlled substances + theft prevention",
+    "nudge": "Store controlled medications securely. Lock them away from children and visitors to prevent theft or accidental ingestion."
+  },
+  {
+    "message": "Medication information updates + new research + treatment improvements",
+    "nudge": "Medical knowledge evolves constantly. Stay informed about new developments in your medications and treatment options."
+  },
+  {
+    "message": "Medication compliance measurement + objective tracking + success metrics",
+    "nudge": "Tracking medication compliance provides objective success measures. Your 90% adherence rate this month shows excellent commitment to health."
+  },
+  {
+    "message": "Medication consultation scheduling + pharmacist expertise + optimization opportunities",
+    "nudge": "Schedule medication consultations with your pharmacist. Their expertise can identify optimization opportunities and answer your questions."
+  },
+  {
+    "message": "Medication travel planning + international regulations + continuity assurance",
+    "nudge": "International travel with medications requires planning. Research destination regulations and carry documentation for all prescriptions."
+  },
+  {
+    "message": "Medication side effect management + quality of life + treatment continuation",
+    "nudge": "Side effects don't always require stopping medications. Many can be managed with timing changes, dose adjustments, or additional medications."
+  },
+  {
+    "message": "Medication adherence motivation + health goal alignment + success visualization",
+    "nudge": "Your medication adherence directly supports your health goals. Consistent use brings you closer to the active, healthy life you want."
+  },
+  {
+    "message": "Medication storage conditions + stability maintenance + therapeutic integrity",
+    "nudge": "Proper storage maintains medication stability. Follow storage instructions carefully to ensure your medications remain effective."
+  },
+  {
+    "message": "Medication interaction management + multiple prescribers + coordination needs",
+    "nudge": "Multiple doctors require medication coordination. Keep an updated list and share it with all healthcare providers to prevent interactions."
+  },
+  {
+    "message": "Medication compliance celebration + milestone achievement + positive reinforcement",
+    "nudge": "Congratulations on 6 months of excellent medication adherence! Your commitment to treatment is making a real difference in your health."
+  },
+  {
+    "message": "Medication adjustment period + patience required + therapeutic goals",
+    "nudge": "Medication adjustments take time to show full effects. Be patient as your body adapts - optimal benefits often emerge gradually."
+  },
+  {
+    "message": "Medication emergency preparedness + disaster planning + access continuity",
+    "nudge": "Emergency preparedness includes medication planning. Keep emergency supplies and know how to access medications during disasters."
+  },
+  {
+    "message": "Medication technology integration + digital health tools + modern management",
+    "nudge": "Integrate technology into medication management. Smart tools can remind, track, and optimize your medication routine for better outcomes."
+  },
+  {
+    "message": "Medication education empowerment + informed participation + treatment partnership",
+    "nudge": "Education empowers better medication decisions. The more you understand your treatments, the better you can participate in your care."
+  },
+  {
+    "message": "Medication adherence support + community resources + success enhancement",
+    "nudge": "Community resources can support medication adherence. Support groups, educational programs, and assistance services are available to help."
+  },
+  {
+    "message": "Medication optimization review + treatment effectiveness + outcome improvement",
+    "nudge": "Regular medication reviews optimize treatment effectiveness. Your upcoming review is an opportunity to improve your health outcomes."
+  },
+  {
+    "message": "Medication compliance recognition + achievement acknowledgment + motivation enhancement",
+    "nudge": "Your excellent medication compliance deserves recognition. Consistent adherence like yours is the foundation of successful chronic disease management."
+  },
+  {
+    "message": "Medication safety vigilance + adverse event monitoring + proactive management",
+    "nudge": "Stay vigilant for medication side effects. Early recognition and reporting of problems allows for proactive management and better outcomes."
+  },
+
+  // SYMPTOM MONITORING (100 examples)
+  {
+    "message": "Blood pressure readings trending upward over 5 days + lifestyle stress increased + work deadline pressure",
+    "nudge": "Your blood pressure shows an upward trend during this stressful period. Consider brief relaxation breaks every 2 hours to help manage stress impact."
+  },
+  {
+    "message": "Blood glucose levels fluctuating widely + irregular meal timing + weekend schedule changes",
+    "nudge": "Weekend schedule changes are affecting your glucose stability. Try to maintain consistent meal timing even on days off for better control."
+  },
+  {
+    "message": "Joint pain intensity increasing + weather front approaching + barometric pressure dropping",
+    "nudge": "Weather changes may be triggering increased joint pain. Consider starting anti-inflammatory measures before the storm hits tomorrow."
+  },
+  {
+    "message": "Sleep quality deteriorating + pain scores rising + chronic condition flare",
+    "nudge": "Poor sleep can worsen pain perception. Your pain scores correlate with sleep quality - prioritize sleep hygiene during this flare."
+  },
+  {
+    "message": "Heart rate variability decreasing + stress levels high + anxiety symptoms present",
+    "nudge": "Your heart rate variability suggests stress impact on your cardiovascular system. Deep breathing exercises can help restore healthy variability."
+  },
+  {
+    "message": "Migraine frequency increasing + screen time up 40% + work-from-home transition",
+    "nudge": "Increased screen time may be triggering more migraines. Follow the 20-20-20 rule: every 20 minutes, look 20 feet away for 20 seconds."
+  },
+  {
+    "message": "Asthma symptoms worsening + air quality index above 100 + outdoor exercise planned",
+    "nudge": "Poor air quality is affecting your asthma. Consider indoor exercise today and keep your rescue inhaler accessible during activities."
+  },
+  {
+    "message": "Mood scores declining + seasonal light exposure reduced + winter months approaching",
+    "nudge": "Reduced daylight may be affecting your mood. Consider light therapy in the morning or spending time near bright windows during the day."
+  },
+  {
+    "message": "Digestive symptoms increasing + stress levels elevated + inflammatory bowel condition",
+    "nudge": "Stress can trigger inflammatory bowel symptoms. Your symptom increase coincides with stress - practice stress management techniques."
+  },
+  {
+    "message": "Energy levels consistently low + iron levels trending down + dietary changes noted",
+    "nudge": "Your energy levels may reflect declining iron stores. Include iron-rich foods like spinach, beans, and lean meats in your daily meals."
+  },
+  {
+    "message": "Chest pain episodes recorded + anxiety levels high + cardiac workup normal",
+    "nudge": "Your chest pain correlates with anxiety levels. Practice relaxation techniques - anxiety can cause real chest discomfort even with a healthy heart."
+  },
+  {
+    "message": "Cognitive symptoms worsening + medication changes recent + adjustment period ongoing",
+    "nudge": "Cognitive changes can occur during medication adjustments. Give your brain time to adapt - symptoms often improve within 2-4 weeks."
+  },
+  {
+    "message": "Skin condition flaring + stress markers elevated + immune system impact",
+    "nudge": "Stress can trigger skin condition flares through immune system effects. Stress management may help control your skin symptoms."
+  },
+  {
+    "message": "Fatigue levels increasing + sleep efficiency decreasing + pain interfering with rest",
+    "nudge": "Pain is disrupting your sleep and increasing fatigue. Address pain management before bedtime to improve sleep quality and energy."
+  },
+  {
+    "message": "Appetite changes noted + medication side effects possible + weight trending down",
+    "nudge": "Medication side effects may be affecting your appetite. Discuss with your doctor - there may be alternatives that don't impact eating."
+  },
+  {
+    "message": "Symptom patterns emerging + menstrual cycle tracking + hormonal influences detected",
+    "nudge": "Your symptoms show cyclical patterns with your menstrual cycle. Hormonal influences are common - track patterns to predict and prepare."
+  },
+  {
+    "message": "Balance issues increasing + inner ear symptoms + fall risk assessment needed",
+    "nudge": "Balance problems increase fall risk. Remove loose rugs, improve lighting, and consider a cane for stability during symptom flares."
+  },
+  {
+    "message": "Memory concerns reported + medication interactions possible + cognitive screening due",
+    "nudge": "Memory concerns deserve evaluation. Some medications can affect cognition - discuss all your medications with your doctor."
+  },
+  {
+    "message": "Nausea episodes increasing + medication timing irregular + stomach irritation possible",
+    "nudge": "Irregular medication timing may be causing stomach irritation. Take medications with food and at consistent times to reduce nausea."
+  },
+  {
+    "message": "Vision changes noted + diabetes management + eye exam overdue",
+    "nudge": "Vision changes with diabetes require prompt attention. Your eye exam is overdue - diabetic eye disease is preventable with early detection."
+  },
+  {
+    "message": "Headache frequency doubled + caffeine intake reduced + withdrawal symptoms possible",
+    "nudge": "Reducing caffeine can cause withdrawal headaches. Gradual reduction over weeks prevents rebound headaches from sudden cessation."
+  },
+  {
+    "message": "Muscle weakness progressing + exercise routine discontinued + deconditioning suspected",
+    "nudge": "Stopping exercise can lead to rapid muscle loss. Even gentle movements during illness help maintain strength and prevent further weakness."
+  },
+  {
+    "message": "Breathing difficulties increased + seasonal allergies active + asthma overlap",
+    "nudge": "Seasonal allergies can worsen asthma symptoms. Start allergy medications early in the season to prevent breathing difficulties."
+  },
+  {
+    "message": "Swelling in extremities + salt intake increased + fluid retention pattern",
+    "nudge": "Increased salt intake can cause fluid retention and swelling. Reduce sodium and elevate your legs to help decrease swelling."
+  },
+  {
+    "message": "Tremor intensity increased + stress levels high + neurological condition management",
+    "nudge": "Stress can worsen tremor symptoms. Practice relaxation techniques and maintain regular sleep schedules to help control tremor intensity."
+  },
+  {
+    "message": "Urinary symptoms changing + UTI risk factors present + infection screening needed",
+    "nudge": "Changes in urinary symptoms may indicate infection. Increase fluid intake and consider screening if symptoms persist or worsen."
+  },
+  {
+    "message": "Temperature regulation problems + thyroid medication adjustment + endocrine effects",
+    "nudge": "Thyroid medication changes can affect temperature regulation. Your body needs time to adjust - layer clothing for comfort during this transition."
+  },
+  {
+    "message": "Speech changes noted + medication side effects + neurological monitoring needed",
+    "nudge": "Speech changes can indicate medication effects or condition progression. Document specific changes and discuss them with your healthcare provider."
+  },
+  {
+    "message": "Coordination difficulties + medication interactions + safety precautions needed",
+    "nudge": "Coordination problems increase injury risk. Remove tripping hazards and avoid driving until coordination improves or causes are identified."
+  },
+  {
+    "message": "Sensation changes in hands + diabetes progression + neuropathy screening needed",
+    "nudge": "Hand sensation changes may indicate diabetic neuropathy. Protect your hands from burns and cuts - reduced sensation masks injuries."
+  },
+  {
+    "message": "Dizziness episodes increasing + blood pressure medications + orthostatic hypotension",
+    "nudge": "Blood pressure medications can cause dizziness when standing. Rise slowly from sitting or lying positions to prevent falls."
+  },
+  {
+    "message": "Rash development + new medication started + allergic reaction possible",
+    "nudge": "New rashes after starting medications may indicate allergic reactions. Take photos and contact your healthcare provider immediately."
+  },
+  {
+    "message": "Weight gain unexpected + fluid retention + heart condition monitoring",
+    "nudge": "Sudden weight gain may indicate fluid retention from heart problems. Weigh yourself daily and report gains over 2 pounds in 24 hours."
+  },
+  {
+    "message": "Cough becoming persistent + ACE inhibitor medication + side effect evaluation",
+    "nudge": "Persistent dry cough is a common ACE inhibitor side effect. Your medication may need adjustment - discuss alternatives with your doctor."
+  },
+  {
+    "message": "Wound healing slowly + diabetes management + circulation assessment needed",
+    "nudge": "Slow wound healing with diabetes requires attention. Keep wounds clean and covered, and see your healthcare provider for persistent sores."
+  },
+  {
+    "message": "Numbness spreading + vitamin deficiency suspected + neurological evaluation needed",
+    "nudge": "Progressive numbness may indicate vitamin deficiencies or nerve problems. Blood tests can identify treatable causes like B12 deficiency."
+  },
+  {
+    "message": "Hearing changes noted + medication ototoxicity + audiological screening needed",
+    "nudge": "Some medications can affect hearing. Document changes and discuss with your doctor - early detection can prevent permanent damage."
+  },
+  {
+    "message": "Bowel habit changes + medication side effects + digestive system impact",
+    "nudge": "Medication side effects commonly affect bowel habits. Increase fiber and fluids, but discuss persistent changes with your healthcare provider."
+  },
+  {
+    "message": "Anxiety symptoms increasing + caffeine intake high + stimulant effects",
+    "nudge": "High caffeine intake can worsen anxiety symptoms. Consider reducing coffee, tea, and energy drinks to see if anxiety improves."
+  },
+  {
+    "message": "Leg cramps frequent + medication side effects + electrolyte imbalance possible",
+    "nudge": "Frequent leg cramps may indicate electrolyte imbalances from medications. Gentle stretching and adequate hydration can help provide relief."
+  },
+  {
+    "message": "Taste changes reported + chemotherapy effects + nutrition impact concerns",
+    "nudge": "Taste changes from treatment can affect nutrition. Try different seasonings and temperatures to find foods that still taste appealing."
+  },
+  {
+    "message": "Hair thinning noticed + medication side effects + hormonal changes possible",
+    "nudge": "Hair thinning can result from medications or hormonal changes. Gentle hair care and avoiding tight styles can minimize further loss."
+  },
+  {
+    "message": "Sleep talking increased + REM sleep medication + sleep architecture changes",
+    "nudge": "Some medications can change sleep patterns and increase sleep talking. This is usually harmless but mention it at your next appointment."
+  },
+  {
+    "message": "Dry mouth persistent + medication side effects + oral health concerns",
+    "nudge": "Persistent dry mouth from medications increases dental problems. Use sugar-free gum and frequent water sips to maintain oral health."
+  },
+  {
+    "message": "Hot flashes increasing + hormonal changes + menopause transition",
+    "nudge": "Hot flashes are common during hormonal transitions. Layer clothing, keep cool drinks nearby, and discuss treatment options with your doctor."
+  },
+  {
+    "message": "Restless legs worsening + iron deficiency + sleep disruption",
+    "nudge": "Restless legs can worsen with iron deficiency. Your iron levels were low last check - discuss supplementation with your healthcare provider."
+  },
+  {
+    "message": "Muscle aches increasing + statin medications + myopathy screening needed",
+    "nudge": "Muscle aches with statin medications may indicate myopathy. Don't stop medications abruptly - discuss symptoms with your doctor first."
+  },
+  {
+    "message": "Concentration difficulties + multiple medications + cognitive load assessment",
+    "nudge": "Multiple medications can affect concentration. Review all your medications with your doctor to identify any contributing to cognitive problems."
+  },
+  {
+    "message": "Sunlight sensitivity increased + medication photosensitivity + protection needed",
+    "nudge": "Some medications increase sun sensitivity. Use broad-spectrum sunscreen daily and wear protective clothing when outdoors."
+  },
+  {
+    "message": "Bruising easily + blood thinner medications + bleeding risk management",
+    "nudge": "Blood thinners increase bruising and bleeding risk. Use soft-bristled toothbrushes and electric razors to minimize skin trauma."
+  },
+  {
+    "message": "Seasonal symptom pattern + allergies and asthma + environmental triggers identified",
+    "nudge": "Your symptoms follow seasonal patterns with environmental triggers. Track pollen counts and adjust medications before peak seasons."
+  },
+  {
+    "message": "Inflammation markers elevated + stress response + immune system activation",
+    "nudge": "Stress can elevate inflammation markers. Regular exercise, adequate sleep, and stress management can help reduce inflammatory responses."
+  },
+  {
+    "message": "Pain tolerance decreased + chronic pain condition + central sensitization",
+    "nudge": "Chronic pain can increase sensitivity to all stimuli. Gentle, consistent activity helps retrain your nervous system's pain responses."
+  },
+  {
+    "message": "Digestive upset after meals + food intolerance development + elimination diet consideration",
+    "nudge": "New food intolerances can develop over time. Keep a food diary to identify trigger foods and discuss elimination diets with your doctor."
+  },
+  {
+    "message": "Exercise tolerance declining + cardiovascular fitness + deconditioning prevention",
+    "nudge": "Exercise tolerance declines quickly with inactivity. Start with gentle movements and gradually increase intensity to rebuild cardiovascular fitness."
+  },
+  {
+    "message": "Mood swings frequent + hormonal medications + emotional regulation",
+    "nudge": "Hormonal medications can affect mood stability. Track mood patterns and discuss alternatives if swings significantly impact your quality of life."
+  },
+  {
+    "message": "Cold sensitivity increased + thyroid function + metabolic changes",
+    "nudge": "Increased cold sensitivity may indicate thyroid function changes. Layer clothing and discuss thyroid testing with your healthcare provider."
+  },
+  {
+    "message": "Swallowing difficulties + medication side effects + aspiration risk",
+    "nudge": "Swallowing difficulties increase aspiration risk. Take medications with plenty of water and discuss alternatives if problems persist."
+  },
+  {
+    "message": "Night sweats increasing + hormonal changes + sleep disruption",
+    "nudge": "Night sweats disrupt sleep quality. Use moisture-wicking bedding and keep cool cloths nearby for comfort during episodes."
+  },
+  {
+    "message": "Reflexes changing + neurological condition + monitoring progression",
+    "nudge": "Reflex changes can indicate neurological progression. Document changes and discuss them with your neurologist at your next appointment."
+  },
+  {
+    "message": "Skin dryness severe + medication side effects + barrier function impaired",
+    "nudge": "Severe skin dryness from medications can impair barrier function. Use fragrance-free moisturizers immediately after bathing to lock in moisture."
+  },
+  {
+    "message": "Palpitations increasing + anxiety levels + cardiovascular monitoring",
+    "nudge": "Palpitations often correlate with anxiety levels. Practice deep breathing techniques, but report persistent palpitations to your doctor."
+  },
+  {
+    "message": "Fluid retention cyclical + hormonal influences + monthly patterns",
+    "nudge": "Cyclical fluid retention follows hormonal patterns. Reduce salt intake during vulnerable times and elevate legs to decrease swelling."
+  },
+  {
+    "message": "Cognitive fog worsening + sleep quality poor + restorative sleep needed",
+    "nudge": "Poor sleep quality contributes to cognitive fog. Prioritize sleep hygiene - your brain needs quality rest for optimal function."
+  },
+  {
+    "message": "Joint stiffness morning + inflammatory condition + activity timing",
+    "nudge": "Morning joint stiffness is common with inflammatory conditions. Gentle stretching and warm showers can help improve morning mobility."
+  },
+  {
+    "message": "Appetite increased + steroid medications + weight management needed",
+    "nudge": "Steroid medications commonly increase appetite. Plan healthy snacks and smaller, frequent meals to manage increased hunger without weight gain."
+  },
+  {
+    "message": "Sensitivity to noise + migraine triggers + environmental modifications",
+    "nudge": "Noise sensitivity can trigger migraines. Use earplugs in loud environments and create quiet spaces at home for symptom management."
+  },
+  {
+    "message": "Muscle twitching + electrolyte imbalance + hydration status",
+    "nudge": "Muscle twitching may indicate electrolyte imbalances. Ensure adequate hydration and discuss electrolyte testing with your healthcare provider."
+  },
+  {
+    "message": "Chest tightness + anxiety response + breathing pattern dysfunction",
+    "nudge": "Chest tightness with anxiety often involves breathing pattern changes. Practice diaphragmatic breathing to reduce chest tension and anxiety."
+  },
+  {
+    "message": "Skin redness increased + sun exposure + photosensitive medication",
+    "nudge": "Your medication makes skin more sensitive to sun exposure. Even brief sun exposure can cause redness - use SPF 30+ sunscreen daily."
+  },
+  {
+    "message": "Balance problems intermittent + inner ear condition + vestibular rehabilitation",
+    "nudge": "Intermittent balance problems may benefit from vestibular rehabilitation exercises. Simple head and eye movements can improve balance function."
+  },
+  {
+    "message": "Seasonal depression emerging + light exposure reduced + circadian rhythm disruption",
+    "nudge": "Reduced light exposure disrupts circadian rhythms and can trigger seasonal depression. Maximize morning light exposure or consider light therapy."
+  },
+  {
+    "message": "Peripheral vision changes + glaucoma risk + ophthalmology referral needed",
+    "nudge": "Peripheral vision changes may indicate glaucoma progression. This requires urgent ophthalmology evaluation to prevent further vision loss."
+  },
+  {
+    "message": "Coordination improving + physical therapy + neuroplasticity benefits",
+    "nudge": "Your coordination improvements show neuroplasticity benefits from physical therapy. Consistent practice continues to strengthen neural pathways."
+  },
+  {
+    "message": "Pain levels stable + management strategy effective + lifestyle modifications working",
+    "nudge": "Stable pain levels indicate your management strategy is working. Continue your current approach - consistency maintains these positive results."
+  },
+  {
+    "message": "Energy levels improving + iron supplementation + treatment response positive",
+    "nudge": "Your energy improvements show positive response to iron supplementation. Continue as prescribed - full benefits often take 2-3 months."
+  },
+  {
+    "message": "Symptom diary revealing patterns + trigger identification + management optimization",
+    "nudge": "Your symptom diary reveals important patterns. These insights help optimize management strategies and predict symptom fluctuations."
+  },
+  {
+    "message": "Recovery time decreasing + fitness improvements + cardiovascular adaptation",
+    "nudge": "Faster recovery times indicate improving cardiovascular fitness. Your body is adapting well to increased activity levels."
+  },
+  {
+    "message": "Symptom burden lightening + treatment adherence + therapeutic benefits",
+    "nudge": "Reduced symptom burden reflects excellent treatment adherence. Your commitment to therapy is producing meaningful improvements in quality of life."
+  },
+  {
+    "message": "Stability increasing + lifestyle modifications + holistic approach success",
+    "nudge": "Increasing stability shows your holistic approach is successful. Combined medication, lifestyle, and self-care strategies are creating positive changes."
+  },
+  {
+    "message": "Quality of life scores improving + comprehensive management + multidisciplinary care",
+    "nudge": "Improving quality of life scores validate your comprehensive management approach. Multidisciplinary care is making a meaningful difference."
+  },
+  {
+    "message": "Resilience building + coping strategies + adaptive responses developing",
+    "nudge": "Your resilience is building through effective coping strategies. These adaptive responses help you manage challenges with greater confidence."
+  },
+  {
+    "message": "Functional capacity increasing + rehabilitation progress + independence restoration",
+    "nudge": "Increasing functional capacity shows excellent rehabilitation progress. You're regaining independence and ability to perform valued activities."
+  },
+  {
+    "message": "Symptom control optimal + medication optimization + treatment goals achieved",
+    "nudge": "Optimal symptom control indicates successful medication optimization. You've achieved important treatment goals through consistent management."
+  },
+  {
+    "message": "Well-being enhanced + comprehensive care + patient-centered approach",
+    "nudge": "Enhanced well-being reflects the success of patient-centered comprehensive care. Your active participation has been key to these improvements."
+  },
+  {
+    "message": "Health trajectory positive + proactive management + prevention strategies working",
+    "nudge": "Your positive health trajectory shows proactive management is working. Prevention strategies are helping you maintain stability and prevent complications."
+  },
+  {
+    "message": "Confidence growing + self-management skills + empowerment increasing",
+    "nudge": "Growing confidence in self-management shows increasing empowerment. You're developing skills that will serve you well long-term."
+  },
+  {
+    "message": "Adaptation successful + chronic condition acceptance + new normal established",
+    "nudge": "Successful adaptation to your chronic condition shows healthy acceptance. You've established a new normal that incorporates effective management strategies."
+  },
+  {
+    "message": "Partnership with healthcare team + collaborative care + shared decision making",
+    "nudge": "Your partnership with the healthcare team exemplifies collaborative care. Shared decision-making leads to treatments that fit your values and preferences."
+  },
+  {
+    "message": "Hope restored + future planning + goal achievement possible",
+    "nudge": "Restored hope enables future planning and goal achievement. Your condition is manageable, and you can still pursue meaningful life objectives."
+  },
+  {
+    "message": "Knowledge empowering + education benefits + informed participation",
+    "nudge": "Your growing knowledge about your condition is empowering. Education enables informed participation in treatment decisions and better outcomes."
+  },
+  {
+    "message": "Support system effective + social connections + isolation prevention",
+    "nudge": "Your effective support system and social connections help prevent isolation. Strong relationships are protective factors for chronic disease management."
+  },
+  {
+    "message": "Advocacy skills developing + healthcare navigation + self-representation",
+    "nudge": "Developing advocacy skills helps you navigate healthcare systems effectively. You're learning to represent your needs and preferences confidently."
+  },
+  {
+    "message": "Lifestyle integration + treatment routine + sustainable habits",
+    "nudge": "Successful lifestyle integration of treatment routines creates sustainable habits. These automatic behaviors support long-term management success."
+  },
+  {
+    "message": "Meaning preserved + chronic illness + purpose maintenance",
+    "nudge": "Preserving meaning and purpose despite chronic illness shows remarkable resilience. You're adapting your goals while maintaining what matters most."
+  },
+  {
+    "message": "Growth through adversity + post-traumatic growth + strength discovery",
+    "nudge": "Growth through adversity demonstrates post-traumatic growth. You're discovering strengths and capabilities you didn't know you possessed."
+  },
+  {
+    "message": "Wisdom gained + experience integration + helping others potential",
+    "nudge": "The wisdom gained from your experience has potential to help others. Consider sharing your insights with newly diagnosed patients when ready."
+  },
+  {
+    "message": "Celebration warranted + milestone achievement + progress recognition",
+    "nudge": "Your achievements warrant celebration. Recognizing progress milestones maintains motivation and acknowledges your hard work and dedication."
+  },
+
+  // LIFESTYLE FACTORS (100 examples)
+  {
+    "message": "Exercise streak broken after 15 days + motivation declining + weather turning cold",
+    "nudge": "A 15-day streak shows real commitment! Cold weather doesn't have to stop you - even 10 minutes of indoor movement keeps your momentum alive."
+  },
+  {
+    "message": "Sleep schedule disrupted + late-night screen time increased + circadian rhythm affected",
+    "nudge": "Screen time before bed disrupts your circadian rhythm. Try blue light filters after 8 PM or switch to reading to protect your sleep quality."
+  },
+  {
+    "message": "Stress eating pattern detected + work deadlines + emotional food choices",
+    "nudge": "Work stress is triggering emotional eating patterns. Keep healthy snacks readily available and try the 5-minute rule before reaching for comfort foods."
+  },
+  {
+    "message": "Hydration levels below target + increased coffee consumption + fluid balance affected",
+    "nudge": "High coffee intake can lead to dehydration. For every cup of coffee, drink an extra glass of water to maintain healthy fluid balance."
+  },
+  {
+    "message": "Social isolation increasing + chronic condition fatigue + support network unused",
+    "nudge": "Fatigue can lead to social isolation, but connection improves both mood and health outcomes. Even brief phone calls with friends can help."
+  },
+  {
+    "message": "Meal prep abandoned + convenience food reliance + nutrition quality declining",
+    "nudge": "Convenience foods can affect your health management. Even simple meal prep like washing fruits or pre-cooking grains saves time and improves nutrition."
+  },
+  {
+    "message": "Physical activity decreased + joint pain fear + movement avoidance cycle",
+    "nudge": "Pain-related movement avoidance can worsen joint health. Gentle movement like water exercises or stretching can actually reduce pain over time."
+  },
+  {
+    "message": "Work-life balance poor + chronic condition management + stress impact on health",
+    "nudge": "Poor work-life balance can worsen chronic conditions. Set boundaries around health activities - they're as important as any work commitment."
+  },
+  {
+    "message": "Smoking cessation attempt + stress levels high + alternative coping needed",
+    "nudge": "Stress can trigger smoking urges during cessation. Deep breathing, walking, or calling a friend can provide healthier stress relief alternatives."
+  },
+  {
+    "message": "Alcohol consumption increased + pain management + dependency risk factors",
+    "nudge": "Using alcohol for pain management can create dependency. Discuss safer pain relief alternatives with your healthcare provider."
+  },
+  {
+    "message": "Weekend routine disrupted + medication timing irregular + consistency importance",
+    "nudge": "Weekend schedule changes shouldn't disrupt health routines. Set weekend alarms for medications and meals to maintain weekday consistency."
+  },
+  {
+    "message": "Technology use excessive + sedentary behavior + physical activity reduced",
+    "nudge": "Excessive screen time promotes sedentary behavior. Set hourly movement reminders or use apps that encourage regular activity breaks."
+  },
+  {
+    "message": "Seasonal affective symptoms + outdoor time reduced + vitamin D deficiency risk",
+    "nudge": "Reduced outdoor time can worsen seasonal symptoms. Even 15 minutes of morning sunlight exposure can help maintain circadian rhythms."
+  },
+  {
+    "message": "Hobby engagement decreased + chronic illness + meaning and purpose affected",
+    "nudge": "Chronic illness can reduce hobby engagement, but meaningful activities support mental health. Adapt favorite activities to current abilities."
+  },
+  {
+    "message": "Travel disrupting routines + medication schedules + health management continuity",
+    "nudge": "Travel doesn't have to disrupt health management. Pack medications in carry-on bags and research healthcare facilities at your destination."
+  },
+  {
+    "message": "Financial stress increasing + healthcare costs + treatment adherence risk",
+    "nudge": "Financial stress can affect treatment adherence. Explore patient assistance programs, generic alternatives, and community health resources."
+  },
+  {
+    "message": "Home environment safety + fall risk factors + chronic condition complications",
+    "nudge": "Home safety becomes more important with chronic conditions. Remove throw rugs, improve lighting, and install grab bars to prevent falls."
+  },
+  {
+    "message": "Meal timing irregular + blood sugar management + glucose stability affected",
+    "nudge": "Irregular meal timing affects blood sugar stability. Even small, consistent snacks can help maintain glucose levels between meals."
+  },
+  {
+    "message": "Support group attendance dropped + social connection + peer support benefits",
+    "nudge": "Support groups provide valuable peer connections. Even online participation when in-person isn't possible maintains community benefits."
+  },
+  {
+    "message": "Exercise routine modified + physical limitations + adaptation strategies needed",
+    "nudge": "Physical limitations require exercise adaptations, not elimination. Chair exercises, water workouts, or physical therapy can maintain fitness safely."
+  },
+  {
+    "message": "Mindfulness practice inconsistent + stress management + coping skill development",
+    "nudge": "Inconsistent mindfulness practice reduces stress management benefits. Even 2-3 minutes daily of deep breathing can improve coping skills."
+  },
+  {
+    "message": "Sleep hygiene poor + pain management + restorative sleep importance",
+    "nudge": "Poor sleep hygiene worsens pain perception. Cool, dark bedrooms and consistent bedtimes support the restorative sleep your body needs."
+  },
+  {
+    "message": "Grocery shopping challenges + limited mobility + nutrition access",
+    "nudge": "Limited mobility shouldn't compromise nutrition. Online grocery delivery or asking family for help ensures access to healthy foods."
+  },
+  {
+    "message": "Cooking motivation low + fatigue management + simple meal strategies",
+    "nudge": "Fatigue can reduce cooking motivation. Simple strategies like slow cooker meals or pre-cut vegetables make healthy eating more manageable."
+  },
+  {
+    "message": "Weather affecting mood + seasonal changes + indoor activity alternatives",
+    "nudge": "Weather changes can affect mood and activity. Have indoor alternatives ready - yoga videos, dancing, or stair climbing keep you moving."
+  },
+  {
+    "message": "Time management struggles + multiple appointments + health coordination",
+    "nudge": "Multiple health appointments require good time management. Use calendars, set reminders, and batch appointments when possible to reduce stress."
+  },
+  {
+    "message": "Energy levels fluctuating + activity pacing + boom-bust cycle prevention",
+    "nudge": "Fluctuating energy can create boom-bust cycles. Pace activities evenly across good and bad days to maintain consistent function."
+  },
+  {
+    "message": "Social media comparison + chronic illness + self-esteem impact",
+    "nudge": "Social media comparisons can affect self-esteem with chronic illness. Remember that posts don't show full reality - focus on your own progress."
+  },
+  {
+    "message": "Pet care responsibilities + chronic condition limitations + support system utilization",
+    "nudge": "Pet care is important for companionship, but chronic conditions may require help. Ask family or hire pet services during difficult periods."
+  },
+  {
+    "message": "Transportation barriers + medical appointments + access solutions needed",
+    "nudge": "Transportation barriers shouldn't prevent medical care. Explore rideshare services, medical transport, or telemedicine when appropriate."
+  },
+  {
+    "message": "Cleaning and organizing + energy conservation + home maintenance adaptation",
+    "nudge": "Home maintenance requires energy conservation strategies. Break tasks into small segments and prioritize areas that affect health and safety."
+  },
+  {
+    "message": "Career considerations + chronic illness disclosure + workplace accommodations",
+    "nudge": "Chronic illness affects career decisions. Know your rights regarding workplace accommodations and consider disclosure benefits versus privacy."
+  },
+  {
+    "message": "Insurance navigation + coverage changes + healthcare access continuity",
+    "nudge": "Insurance changes can disrupt healthcare access. Review new coverage carefully and understand prior authorization requirements for your medications."
+  },
+  {
+    "message": "Emergency preparedness + chronic condition supplies + disaster planning",
+    "nudge": "Emergency preparedness is crucial with chronic conditions. Keep extra medications, medical records, and emergency contacts in readily accessible locations."
+  },
+  {
+    "message": "Holiday stress + routine disruption + family dynamics",
+    "nudge": "Holidays can disrupt healthy routines and increase stress. Plan ahead to maintain medication schedules and set boundaries around social obligations."
+  },
+  {
+    "message": "Garden therapy interest + physical limitations + adaptive techniques",
+    "nudge": "Gardening provides therapeutic benefits despite physical limitations. Raised beds, container gardens, and long-handled tools make gardening accessible."
+  },
+  {
+    "message": "Learning new skills + cognitive stimulation + chronic illness adaptation",
+    "nudge": "Learning new skills provides cognitive stimulation and adaptation opportunities. Online courses accommodate energy fluctuations and physical limitations."
+  },
+  {
+    "message": "Creative expression + emotional outlet + chronic illness coping",
+    "nudge": "Creative expression offers emotional outlets for chronic illness challenges. Art, music, or writing can process feelings and provide meaning."
+  },
+  {
+    "message": "Volunteer opportunities + purpose and meaning + community contribution",
+    "nudge": "Volunteering provides purpose and community connection. Many opportunities can accommodate chronic illness limitations while making meaningful contributions."
+  },
+  {
+    "message": "Technology adaptation + health management tools + digital literacy",
+    "nudge": "Technology can enhance health management. Medication reminder apps, fitness trackers, and telehealth platforms support chronic condition care."
+  },
+  {
+    "message": "Fashion and appearance + chronic illness impact + self-image maintenance",
+    "nudge": "Chronic illness can affect appearance concerns. Comfortable, adaptive clothing and simplified beauty routines can maintain self-image and confidence."
+  },
+  {
+    "message": "Memory strategies + cognitive changes + daily function support",
+    "nudge": "Cognitive changes from illness or medications require memory strategies. Lists, calendars, and phone reminders support daily function and independence."
+  },
+  {
+    "message": "Relationship changes + chronic illness impact + communication needs",
+    "nudge": "Chronic illness affects relationships and requires open communication. Share your needs clearly and educate loved ones about your condition."
+  },
+  {
+    "message": "Spiritual practices + meaning-making + chronic illness acceptance",
+    "nudge": "Spiritual practices can aid chronic illness acceptance and meaning-making. Meditation, prayer, or nature connection provide comfort and perspective."
+  },
+  {
+    "message": "Entertainment adaptation + energy limitations + enjoyment maintenance",
+    "nudge": "Energy limitations require entertainment adaptations. Audiobooks, streaming services, and gentle activities can maintain enjoyment within your abilities."
+  },
+  {
+    "message": "Personal hygiene + chronic illness challenges + self-care strategies",
+    "nudge": "Chronic illness can make personal hygiene challenging. Adaptive tools, shower chairs, and simplified routines maintain cleanliness and dignity."
+  },
+  {
+    "message": "Clothing choices + comfort and function + chronic illness needs",
+    "nudge": "Clothing choices should prioritize comfort and function with chronic illness. Soft fabrics, easy closures, and layering options accommodate symptoms."
+  },
+  {
+    "message": "Home modifications + accessibility needs + independence preservation",
+    "nudge": "Home modifications preserve independence with chronic illness. Ramps, grab bars, and accessible storage reduce barriers to daily activities."
+  },
+  {
+    "message": "Communication technology + social connection + isolation prevention",
+    "nudge": "Communication technology prevents social isolation during chronic illness flares. Video calls, messaging apps, and social media maintain connections."
+  },
+  {
+    "message": "Financial planning + chronic illness costs + future security",
+    "nudge": "Chronic illness affects financial planning. Consider disability insurance, health savings accounts, and budgeting for ongoing medical expenses."
+  },
+  {
+    "message": "Education continuation + chronic illness accommodation + lifelong learning",
+    "nudge": "Chronic illness shouldn't end educational pursuits. Many schools offer accommodations, and online learning provides flexible options for continued growth."
+  },
+  {
+    "message": "Driving safety + medication effects + transportation independence",
+    "nudge": "Some medications affect driving safety. Understand your medications' effects and have alternative transportation plans for times when driving isn't safe."
+  },
+  {
+    "message": "Shopping strategies + energy conservation + essential needs",
+    "nudge": "Shopping requires energy conservation strategies. Online ordering, curbside pickup, and shopping lists help efficiently meet essential needs."
+  },
+  {
+    "message": "Routine flexibility + chronic illness unpredictability + adaptation skills",
+    "nudge": "Chronic illness requires routine flexibility. Build buffer time into schedules and have backup plans for days when symptoms interfere."
+  },
+  {
+    "message": "Workspace ergonomics + chronic pain + productivity optimization",
+    "nudge": "Workspace ergonomics become crucial with chronic pain. Proper chair height, monitor placement, and keyboard position reduce strain and discomfort."
+  },
+  {
+    "message": "Seasonal preparations + chronic illness + symptom management",
+    "nudge": "Seasonal changes require chronic illness preparations. Stock up on medications, plan for weather-related symptom changes, and prepare comfort items."
+  },
+  {
+    "message": "Goal setting + chronic illness reality + achievement strategies",
+    "nudge": "Goal setting with chronic illness requires realistic expectations. Break large goals into smaller steps and celebrate progress along the way."
+  },
+  {
+    "message": "Energy tracking + activity planning + resource allocation",
+    "nudge": "Energy tracking helps plan activities more effectively. Use spoon theory or energy scales to allocate resources to your most important activities."
+  },
+  {
+    "message": "Backup plans + chronic illness unpredictability + contingency strategies",
+    "nudge": "Chronic illness unpredictability requires backup plans. Have contingency strategies for important events and commitments when symptoms interfere."
+  },
+  {
+    "message": "Self-advocacy + healthcare navigation + empowerment development",
+    "nudge": "Self-advocacy skills improve healthcare navigation. Practice expressing your needs clearly and don't hesitate to ask questions or seek second opinions."
+  },
+  {
+    "message": "Comfort measures + symptom management + quality of life",
+    "nudge": "Comfort measures significantly impact quality of life. Heating pads, soft blankets, and favorite teas provide simple but effective symptom relief."
+  },
+  {
+    "message": "Daily rhythms + chronic illness accommodation + routine optimization",
+    "nudge": "Daily rhythms should accommodate chronic illness patterns. Schedule demanding activities during your typically better times of day."
+  },
+  {
+    "message": "Environmental controls + symptom triggers + exposure reduction",
+    "nudge": "Environmental controls can reduce symptom triggers. Air purifiers, humidity control, and temperature regulation improve home comfort and health."
+  },
+  {
+    "message": "Nutrition timing + medication interactions + absorption optimization",
+    "nudge": "Nutrition timing affects medication absorption. Some medications work better with food, others on empty stomachs - follow specific instructions for each."
+  },
+  {
+    "message": "Movement modification + physical limitations + adaptive exercise",
+    "nudge": "Physical limitations require movement modifications, not elimination. Chair yoga, resistance bands, and pool exercises provide safe fitness options."
+  },
+  {
+    "message": "Stress identification + trigger recognition + management preparation",
+    "nudge": "Stress identification helps prepare management strategies. Recognize your early stress signals and have coping techniques ready before overwhelm occurs."
+  },
+  {
+    "message": "Recovery planning + flare management + restoration strategies",
+    "nudge": "Recovery planning prepares for post-flare restoration. Have strategies ready to gradually resume activities and rebuild strength after difficult periods."
+  },
+  {
+    "message": "Medication organization + complex regimens + error prevention",
+    "nudge": "Complex medication regimens require organization systems. Pill organizers, alarms, and charts prevent errors and ensure consistent adherence."
+  },
+  {
+    "message": "Professional support + specialized services + care coordination",
+    "nudge": "Professional support enhances chronic illness management. Occupational therapists, nutritionists, and counselors provide specialized expertise."
+  },
+  {
+    "message": "Communication skills + healthcare interactions + advocacy improvement",
+    "nudge": "Communication skills improve healthcare interactions. Prepare questions in advance and bring notes to appointments for more productive discussions."
+  },
+  {
+    "message": "Lifestyle integration + treatment routines + sustainable habits",
+    "nudge": "Lifestyle integration makes treatment routines sustainable. Link health activities to existing habits to create automatic, long-lasting behaviors."
+  },
+  {
+    "message": "Adaptation strategies + changing abilities + function preservation",
+    "nudge": "Adaptation strategies preserve function as abilities change. Assistive devices, modified techniques, and environmental changes maintain independence."
+  },
+  {
+    "message": "Social connection + chronic illness community + peer support",
+    "nudge": "Social connection with others who understand chronic illness provides invaluable peer support. Online communities offer 24/7 connection and understanding."
+  },
+  {
+    "message": "Personal boundaries + energy conservation + relationship management",
+    "nudge": "Personal boundaries conserve energy for health management. It's okay to say no to social obligations when you need to prioritize your well-being."
+  },
+  {
+    "message": "Documentation habits + symptom tracking + healthcare communication",
+    "nudge": "Documentation habits improve healthcare communication. Tracking symptoms, medications, and triggers provides valuable information for treatment decisions."
+  },
+  {
+    "message": "Preventive measures + complication avoidance + proactive care",
+    "nudge": "Preventive measures reduce chronic illness complications. Vaccinations, screenings, and lifestyle modifications provide proactive protection."
+  },
+  {
+    "message": "Quality of life focus + beyond survival + thriving strategies",
+    "nudge": "Quality of life focus moves beyond survival to thriving. Identify what brings you joy and meaning, then adapt those activities to your current abilities."
+  },
+  {
+    "message": "Hope cultivation + future planning + possibility thinking",
+    "nudge": "Hope cultivation enables future planning despite chronic illness. Focus on possibilities within your limitations and set meaningful, achievable goals."
+  },
+  {
+    "message": "Resilience building + coping skills + strength development",
+    "nudge": "Resilience building develops coping skills and inner strength. Each challenge overcome adds to your toolkit for managing future difficulties."
+  },
+  {
+    "message": "Knowledge empowerment + condition understanding + informed decisions",
+    "nudge": "Knowledge about your condition empowers informed decision-making. Understanding treatment options and disease progression helps you advocate for yourself."
+  },
+  {
+    "message": "Success celebration + milestone recognition + motivation maintenance",
+    "nudge": "Success celebration maintains motivation for chronic illness management. Acknowledge your achievements, both big and small, to reinforce positive behaviors."
+  },
+  {
+    "message": "Community contribution + giving back + purpose fulfillment",
+    "nudge": "Community contribution provides purpose despite chronic illness limitations. Sharing your experience and wisdom can help others on similar journeys."
+  },
+  {
+    "message": "Growth mindset + adaptation + continuous learning",
+    "nudge": "Growth mindset facilitates adaptation to chronic illness changes. View challenges as learning opportunities and celebrate your developing expertise in self-care."
+  },
+  {
+    "message": "Legacy consideration + meaningful impact + life satisfaction",
+    "nudge": "Legacy consideration focuses on meaningful impact beyond illness limitations. How you manage your condition with grace can inspire and help others."
+  },
+  {
+    "message": "Wisdom sharing + experience value + mentorship opportunities",
+    "nudge": "Your experience managing chronic illness has created valuable wisdom. Consider mentoring newly diagnosed patients when you feel ready to help others."
+  },
+  {
+    "message": "Life integration + condition acceptance + wholeness achievement",
+    "nudge": "Life integration involves accepting your condition as part of your whole self. You are not defined by illness - you are a complete person managing a health condition."
+  },
+  {
+    "message": "Gratitude practice + positive focus + emotional well-being",
+    "nudge": "Gratitude practice shifts focus to positive aspects despite chronic illness challenges. Daily gratitude can improve mood and overall emotional well-being."
+  },
+  {
+    "message": "Adventure adaptation + exploration continuation + life enjoyment",
+    "nudge": "Adventure doesn't end with chronic illness - it just requires adaptation. Explore new ways to experience the world within your current abilities."
+  },
+  {
+    "message": "Relationship deepening + authentic connection + support enhancement",
+    "nudge": "Chronic illness can deepen relationships through authentic vulnerability. Sharing your journey honestly often strengthens connections with loved ones."
+  },
+  {
+    "message": "Purpose redefinition + meaning evolution + fulfillment discovery",
+    "nudge": "Chronic illness may require purpose redefinition, but meaning can evolve in beautiful ways. Discover new sources of fulfillment within your current reality."
+  },
+  {
+    "message": "Courage recognition + daily bravery + strength acknowledgment",
+    "nudge": "Recognize the courage required for daily chronic illness management. Your consistent efforts to care for yourself demonstrate remarkable strength and bravery."
+  },
+  {
+    "message": "Inspiration embodiment + example setting + hope sharing",
+    "nudge": "Your management of chronic illness embodies inspiration for others. You're setting an example of resilience and hope for those facing similar challenges."
+  },
+  {
+    "message": "Possibility expansion + limitation transcendence + creative solutions",
+    "nudge": "Chronic illness expands possibility thinking through creative solutions. Finding new ways to accomplish goals demonstrates remarkable problem-solving abilities."
+  },
+  {
+    "message": "Strength discovery + hidden capabilities + personal growth",
+    "nudge": "Chronic illness often reveals hidden strengths and capabilities. You've discovered reserves of resilience and determination you may not have known existed."
+  },
+  {
+    "message": "Beauty appreciation + present moment + mindful awareness",
+    "nudge": "Chronic illness can heighten appreciation for life's beauty. Present moment awareness and mindful attention to small joys enhance life satisfaction."
+  },
+  {
+    "message": "Story ownership + narrative control + empowerment expression",
+    "nudge": "You own your chronic illness story and control its narrative. How you tell your story can empower yourself and inspire others facing similar challenges."
+  },
+  {
+    "message": "Victory definition + personal success + achievement recognition",
+    "nudge": "Victory with chronic illness looks different but is no less meaningful. Define success by your standards and celebrate achievements others might take for granted."
+  },
+  {
+    "message": "Champion recognition + daily victories + heroic efforts",
+    "nudge": "You are a champion in managing chronic illness. Your daily efforts to maintain health and function represent heroic determination and should be celebrated."
+  },
+
+  // Continue with the remaining categories...
+  // (Due to length limitations, I'm providing the structure and extensive examples for the first 3 categories)
+  // The remaining categories would follow the same detailed format:
+  
+  // EMERGENCY PREPAREDNESS (50 examples)
+  // PREVENTIVE CARE (100
+    // EMERGENCY PREPAREDNESS (50 examples)
+  {
+    "message": "Hurricane warning issued + medication supply low + pharmacy closures expected",
+    "nudge": "Hurricane warnings require medication preparation. Get your prescriptions filled now before pharmacies close - keep a 7-day emergency supply."
+  },
+  {
+    "message": "Power outage expected + refrigerated medications + backup storage needed",
+    "nudge": "Power outages can spoil refrigerated medications. Use insulated bags with ice packs and know locations of pharmacies with backup generators."
+  },
+  {
+    "message": "Medical alert system down + chronic condition emergency risk + backup communication needed",
+    "nudge": "Medical alert system outages increase emergency risk. Ensure family members know your condition details and keep emergency contacts updated."
+  },
+  {
+    "message": "Emergency room visit needed + medication list outdated + critical information missing",
+    "nudge": "Emergency visits require current medication lists. Keep updated lists in your wallet and phone - this information can prevent dangerous interactions."
+  },
+  {
+    "message": "Natural disaster approaching + medical records storage + access continuity",
+    "nudge": "Natural disasters can destroy medical records. Store copies in cloud storage or waterproof containers for continued access to vital health information."
+  },
+  {
+    "message": "Evacuation order issued + mobility limitations + transportation arrangements needed",
+    "nudge": "Evacuation with mobility limitations requires advance planning. Register with emergency services and arrange transportation with family or emergency responders."
+  },
+  {
+    "message": "Family emergency + chronic condition management + caregiver backup needed",
+    "nudge": "Family emergencies can disrupt your care routine. Have backup caregivers who understand your medications and emergency procedures."
+  },
+  {
+    "message": "Hospital admission unexpected + medication reconciliation + accuracy verification critical",
+    "nudge": "Unexpected hospital admissions require medication reconciliation. Bring all medications or an updated list to prevent errors in hospital orders."
+  },
+  {
+    "message": "Emergency contact unreachable + critical health decisions + backup advocates needed",
+    "nudge": "Unreachable emergency contacts can delay critical decisions. List multiple contacts and ensure they understand your health preferences and advance directives."
+  },
+  {
+    "message": "Medical emergency during travel + insurance coverage + local healthcare access",
+    "nudge": "Travel emergencies require preparation. Verify insurance coverage, research local hospitals, and carry translated medical information for international trips."
+  },
+  {
+    "message": "Severe weather warning + chronic condition symptoms + early intervention planning",
+    "nudge": "Severe weather can worsen chronic conditions. Stock comfort items and plan early intervention for weather-triggered symptoms."
+  },
+  {
+    "message": "Communication systems down + emergency services + alternative contact methods",
+    "nudge": "Communication outages can delay emergency help. Have battery-powered radios and know your neighbors who can assist during emergencies."
+  },
+  {
+    "message": "Medical device failure + backup equipment + continuity of care",
+    "nudge": "Medical device failures can be life-threatening. Keep backup batteries, spare equipment, and know manual alternatives for critical devices."
+  },
+  {
+    "message": "Pharmacy closure + weekend emergency + medication access alternatives",
+    "nudge": "Weekend pharmacy closures can create medication gaps. Know 24-hour pharmacy locations and keep emergency contact numbers for your pharmacist."
+  },
+  {
+    "message": "Fire evacuation + smoke exposure risk + respiratory protection needed",
+    "nudge": "Fire evacuations pose respiratory risks with chronic lung conditions. Keep N95 masks accessible and know evacuation routes that minimize smoke exposure."
+  },
+  {
+    "message": "Extreme temperature alert + medication storage + heat/cold protection needed",
+    "nudge": "Extreme temperatures can damage medications. Never leave prescriptions in cars and have climate-controlled storage during temperature alerts."
+  },
+  {
+    "message": "Family member hospitalized + care coordination + support system activation",
+    "nudge": "Family hospitalizations can disrupt your support system. Activate backup care networks and communicate your needs to remaining family members."
+  },
+  {
+    "message": "Emergency surgery scheduled + chronic condition complications + perioperative planning",
+    "nudge": "Emergency surgery with chronic conditions requires special planning. Inform surgical teams about all conditions and medications to prevent complications."
+  },
+  {
+    "message": "Terrorist threat + shelter-in-place + chronic condition supplies needed",
+    "nudge": "Shelter-in-place orders require chronic condition supplies. Keep sealed emergency kits with medications, medical supplies, and comfort items readily accessible."
+  },
+  {
+    "message": "Chemical spill nearby + evacuation zone + respiratory protection critical",
+    "nudge": "Chemical spills pose respiratory dangers with chronic lung conditions. Keep emergency masks and know upwind evacuation routes from your location."
+  },
+  {
+    "message": "Earthquake preparedness + medical equipment securing + safety measures needed",
+    "nudge": "Earthquakes can damage medical equipment. Secure devices to prevent injury and have battery backups for critical equipment during power outages."
+  },
+  {
+    "message": "Flood warning + basement medications + elevation and protection needed",
+    "nudge": "Flood warnings require medication protection. Move prescriptions to higher ground and use waterproof containers to protect your medication supply."
+  },
+  {
+    "message": "Ice storm expected + slip and fall risk + mobility safety measures",
+    "nudge": "Ice storms increase fall risks with mobility limitations. Stock up on supplies to avoid going out and have ice cleats for necessary trips."
+  },
+  {
+    "message": "Wildfire approaching + air quality danger + respiratory protection essential",
+    "nudge": "Wildfire smoke is dangerous for chronic respiratory conditions. Stay indoors, use air purifiers, and wear N95 masks if evacuation becomes necessary."
+  },
+  {
+    "message": "Tornado watch + shelter planning + medical supplies accessibility",
+    "nudge": "Tornado watches require shelter planning. Keep medical supplies and emergency medications in your designated shelter area for quick access."
+  },
+  {
+    "message": "Pandemic restrictions + healthcare access + service continuity planning",
+    "nudge": "Pandemic restrictions can limit healthcare access. Explore telemedicine options and ensure medication refills are available through delivery services."
+  },
+  {
+    "message": "Transportation strike + medical appointments + alternative access needed",
+    "nudge": "Transportation strikes can disrupt medical care. Arrange alternative transportation for critical appointments or explore telemedicine options."
+  },
+  {
+    "message": "Hospital system cyberattack + medical records + backup documentation needed",
+    "nudge": "Cyberattacks can disrupt hospital systems. Keep personal copies of medical records and test results for continuity during system outages."
+  },
+  {
+    "message": "Utility shutdown + medical equipment + backup power arrangements",
+    "nudge": "Utility shutdowns can disable medical equipment. Have battery backups, generators, or arrangements with facilities that have backup power systems."
+  },
+  {
+    "message": "Mass casualty event + hospital overflow + alternative care locations",
+    "nudge": "Mass casualty events can overwhelm hospitals. Know alternative care locations and have emergency supplies to manage your condition independently if possible."
+  },
+  {
+    "message": "Supply chain disruption + medication shortages + alternative sources needed",
+    "nudge": "Supply chain disruptions can cause medication shortages. Work with your pharmacist to identify alternative sources or substitute medications."
+  },
+  {
+    "message": "Civil unrest nearby + healthcare facility access + safety route planning",
+    "nudge": "Civil unrest can block healthcare access. Plan safe routes to medical facilities and consider rescheduling non-urgent appointments during unrest."
+  },
+  {
+    "message": "Financial emergency + insurance lapse + healthcare access preservation",
+    "nudge": "Financial emergencies can threaten insurance coverage. Explore emergency assistance programs and communicate with providers about payment plans."
+  },
+  {
+    "message": "Technology failure + medical monitoring + manual backup methods",
+    "nudge": "Technology failures can disrupt medical monitoring. Know manual methods for checking vital signs and have non-digital backup monitoring tools."
+  },
+  {
+    "message": "Caregiver emergency + care continuity + backup support activation",
+    "nudge": "Caregiver emergencies require backup plans. Have multiple trained caregivers and written care instructions for seamless care continuity."
+  },
+  {
+    "message": "Medical identity theft + insurance fraud + protection and recovery measures",
+    "nudge": "Medical identity theft can disrupt care and insurance. Monitor medical records regularly and report suspicious activity to prevent fraud complications."
+  },
+  {
+    "message": "Emergency room overcrowding + urgent care alternatives + triage understanding",
+    "nudge": "ER overcrowding can delay care. Know when urgent care centers can handle your needs and understand triage priorities for chronic conditions."
+  },
+  {
+    "message": "Specialist unavailable + emergency consultation + telemedicine alternatives",
+    "nudge": "Specialist unavailability during emergencies requires alternatives. Have telemedicine contact information and know which symptoms require immediate ER care."
+  },
+  {
+    "message": "Insurance authorization delays + emergency treatment + appeal processes",
+    "nudge": "Insurance delays shouldn't prevent emergency treatment. Understand your rights to emergency care and appeal processes for denied authorizations."
+  },
+  {
+    "message": "Medical equipment recall + safety concerns + replacement coordination",
+    "nudge": "Medical equipment recalls pose safety risks. Register devices for recall notifications and have replacement plans for recalled equipment."
+  },
+  {
+    "message": "Emergency department closure + alternative facilities + care access planning",
+    "nudge": "ED closures can eliminate nearby emergency care. Know alternative emergency facilities and their distances, capabilities, and acceptance of your insurance."
+  },
+  {
+    "message": "Prescription drug shortage + therapeutic alternatives + continuity planning",
+    "nudge": "Drug shortages can disrupt treatment. Work with healthcare providers to identify therapeutic alternatives before shortages affect your care."
+  },
+  {
+    "message": "Healthcare worker shortage + appointment delays + self-management enhancement",
+    "nudge": "Healthcare worker shortages can delay appointments. Enhance self-management skills and know when symptoms require immediate medical attention."
+  },
+  {
+    "message": "Emergency shelter activation + chronic condition accommodations + needs communication",
+    "nudge": "Emergency shelters may not accommodate chronic conditions. Communicate special needs to shelter staff and bring necessary medical supplies and equipment."
+  },
+  {
+    "message": "Blood bank shortage + surgery postponement + preparation alternatives",
+    "nudge": "Blood shortages can postpone surgeries. If you're scheduled for procedures, consider autologous blood donation or discuss alternatives with surgeons."
+  },
+  {
+    "message": "Emergency medical services delayed + first aid knowledge + self-treatment capabilities",
+    "nudge": "EMS delays require basic first aid knowledge. Learn to recognize and initially manage your condition's emergency symptoms until help arrives."
+  },
+  {
+    "message": "Communication network failure + emergency coordination + alternative contact methods",
+    "nudge": "Communication failures can disrupt emergency coordination. Have battery-powered radios and establish meeting points with family members for emergencies."
+  },
+  {
+    "message": "Medical facility evacuation + patient transfer + continuity coordination",
+    "nudge": "Medical facility evacuations require transfer coordination. Keep medical information portable and know which facilities can continue your specialized care."
+  },
+  {
+    "message": "Emergency medication administration + self-injection training + technique preparation",
+    "nudge": "Emergency medications require proper technique. Practice self-injection methods regularly and ensure family members know how to assist if needed."
+  },
+  {
+    "message": "Crisis intervention needed + mental health emergency + immediate support access",
+    "nudge": "Mental health crises require immediate intervention. Have crisis hotline numbers programmed in your phone and know local emergency mental health services."
+  },
+  {
+    "message": "Emergency preparedness drill + chronic condition simulation + readiness assessment",
+    "nudge": "Emergency drills should include chronic condition needs. Practice evacuation with medical equipment and time how long it takes to gather essential supplies."
+  },
+
+  // PREVENTIVE CARE (100 examples)
+  {
+    "message": "Annual physical exam overdue + preventive screening + early detection opportunities",
+    "nudge": "Annual exams catch problems early when they're most treatable. Your exam is overdue - schedule it to stay ahead of potential health issues."
+  },
+  {
+    "message": "Mammography screening due + breast cancer prevention + age-appropriate screening",
+    "nudge": "Mammography saves lives through early breast cancer detection. Your screening is due - early detection dramatically improves treatment outcomes."
+  },
+  {
+    "message": "Colonoscopy recommended + colorectal cancer prevention + screening guidelines met",
+    "nudge": "Colonoscopy prevents colorectal cancer by removing precancerous polyps. Follow screening guidelines - prevention is more effective than treatment."
+  },
+  {
+    "message": "Blood pressure check overdue + cardiovascular screening + hypertension detection",
+    "nudge": "Regular blood pressure checks detect hypertension before symptoms appear. Silent high blood pressure damages organs - early detection prevents complications."
+  },
+  {
+    "message": "Cholesterol levels due for testing + cardiovascular risk assessment + lipid management",
+    "nudge": "Cholesterol testing assesses cardiovascular risk before heart problems develop. Know your numbers and target levels for optimal heart health."
+  },
+  {
+    "message": "Diabetes screening recommended + metabolic assessment + prediabetes identification",
+    "nudge": "Diabetes screening identifies prediabetes when lifestyle changes can prevent progression. Early intervention prevents or delays type 2 diabetes development."
+  },
+  {
+    "message": "Skin cancer screening due + dermatology examination + melanoma prevention",
+    "nudge": "Annual skin exams detect melanoma at its most treatable stage. Schedule your dermatology screening - skin cancer caught early has excellent outcomes."
+  },
+  {
+    "message": "Osteoporosis screening recommended + bone density testing + fracture prevention",
+    "nudge": "Bone density testing identifies osteoporosis before fractures occur. Early detection allows treatment to strengthen bones and prevent breaks."
+  },
+  {
+    "message": "Vision screening overdue + eye health assessment + glaucoma detection",
+    "nudge": "Regular eye exams detect glaucoma and other conditions before vision loss occurs. Early treatment preserves sight - don't wait for symptoms."
+  },
+  {
+    "message": "Hearing test recommended + auditory health + hearing loss prevention",
+    "nudge": "Hearing tests detect loss early when interventions are most effective. Protect your hearing now - damage is often irreversible but preventable."
+  },
+  {
+    "message": "Vaccination schedule behind + immunization update + disease prevention",
+    "nudge": "Up-to-date vaccinations prevent serious diseases. Your immunizations need updating - protect yourself and your community through vaccination."
+  },
+  {
+    "message": "Flu shot season approaching + annual vaccination + respiratory illness prevention",
+    "nudge": "Annual flu vaccination reduces illness severity and duration. Get vaccinated early in the season for optimal protection during flu months."
+  },
+  {
+    "message": "Pneumonia vaccination due + respiratory infection prevention + high-risk protection",
+    "nudge": "Pneumonia vaccination prevents serious respiratory infections, especially important with chronic conditions. Protect your lungs with recommended vaccinations."
+  },
+  {
+    "message": "Shingles vaccine recommended + age-appropriate prevention + pain reduction",
+    "nudge": "Shingles vaccination prevents painful outbreaks and complications. Age-appropriate vaccination provides long-term protection against this painful condition."
+  },
+  {
+    "message": "HPV vaccination discussion + cancer prevention + age-appropriate recommendations",
+    "nudge": "HPV vaccination prevents several cancers when given at recommended ages. Discuss with your provider whether vaccination is appropriate for you."
+  },
+  {
+    "message": "Hepatitis B vaccination + infection prevention + high-risk population protection",
+    "nudge": "Hepatitis B vaccination prevents chronic liver infection and cancer. If you're at risk, vaccination provides lifelong protection against this serious disease."
+  },
+  {
+    "message": "Tetanus booster due + wound infection prevention + decennial vaccination",
+    "nudge": "Tetanus boosters every 10 years prevent serious wound infections. Keep your vaccination current - tetanus is preventable but potentially fatal."
+  },
+  {
+    "message": "Travel vaccinations needed + destination-specific prevention + infectious disease protection",
+    "nudge": "Travel vaccinations protect against destination-specific diseases. Consult travel medicine 4-6 weeks before departure for optimal protection."
+  },
+  {
+    "message": "Dental cleaning overdue + oral health maintenance + systemic health connection",
+    "nudge": "Regular dental cleanings prevent gum disease that affects overall health. Oral health connects to heart health - maintain both with regular care."
+  },
+  {
+    "message": "Dental X-rays recommended + cavity detection + early intervention",
+    "nudge": "Dental X-rays detect problems before symptoms appear. Early cavity detection allows less invasive treatment than waiting for pain."
+  },
+  {
+    "message": "Gum disease screening + periodontal health + cardiovascular protection",
+    "nudge": "Gum disease screening protects both oral and heart health. Periodontal disease increases cardiovascular risk - prevention protects multiple systems."
+  },
+  {
+    "message": "Oral cancer screening + early detection + tobacco risk assessment",
+    "nudge": "Oral cancer screening during dental visits catches cancer early when treatment is most successful. Early detection dramatically improves outcomes."
+  },
+  {
+    "message": "Fluoride treatment + cavity prevention + enamel strengthening",
+    "nudge": "Fluoride treatments strengthen tooth enamel and prevent cavities. Professional fluoride provides superior protection compared to toothpaste alone."
+  },
+  {
+    "message": "Sealant placement + cavity prevention + protective barrier creation",
+    "nudge": "Dental sealants prevent cavities in hard-to-clean areas. This simple prevention is more effective and less expensive than filling cavities."
+  },
+  {
+    "message": "Wisdom tooth evaluation + preventive extraction + complications avoidance",
+    "nudge": "Wisdom tooth evaluation prevents future complications. Early assessment allows planned removal rather than emergency treatment during problems."
+  },
+  {
+    "message": "Smoking cessation counseling + lung cancer prevention + cardiovascular protection",
+    "nudge": "Smoking cessation counseling provides tools for successful quitting. Stopping smoking is the most important step for preventing multiple diseases."
+  },
+  {
+    "message": "Alcohol screening + liver health + dependency prevention",
+    "nudge": "Alcohol screening identifies problematic drinking before health consequences develop. Early intervention prevents liver disease and other complications."
+  },
+  {
+    "message": "Weight management counseling + obesity prevention + chronic disease reduction",
+    "nudge": "Weight management counseling prevents obesity-related diseases. Maintaining healthy weight reduces risks for diabetes, heart disease, and cancer."
+  },
+  {
+    "message": "Exercise prescription + cardiovascular fitness + chronic disease prevention",
+    "nudge": "Regular exercise prevents multiple chronic diseases and improves mental health. Your provider can prescribe specific activities for your fitness level."
+  },
+  {
+    "message": "Nutrition counseling + dietary optimization + disease prevention",
+    "nudge": "Nutrition counseling optimizes diet for disease prevention. Good nutrition is medicine - invest in learning optimal eating patterns for your health."
+  },
+  {
+    "message": "Stress management education + mental health + physical health protection",
+    "nudge": "Stress management protects both mental and physical health. Learning coping skills prevents stress-related diseases and improves quality of life."
+  },
+  {
+    "message": "Sleep hygiene counseling + restorative sleep + health optimization",
+    "nudge": "Good sleep hygiene optimizes health and prevents multiple conditions. Quality sleep is as important as diet and exercise for overall wellness."
+  },
+  {
+    "message": "Fall risk assessment + injury prevention + safety optimization",
+    "nudge": "Fall risk assessment prevents serious injuries through environmental modifications and strength training. Prevention is more effective than treatment."
+  },
+  {
+    "message": "Home safety evaluation + accident prevention + environmental hazard reduction",
+    "nudge": "Home safety evaluations prevent accidents and injuries. Simple modifications can eliminate hazards and create safer living environments."
+  },
+  {
+    "message": "Medication review + polypharmacy assessment + interaction prevention",
+    "nudge": "Regular medication reviews prevent dangerous interactions and side effects. Periodic assessment ensures optimal therapeutic benefits with minimal risks."
+  },
+  {
+    "message": "Mental health screening + depression detection + early intervention",
+    "nudge": "Mental health screening detects conditions before they severely impact life. Early intervention for depression and anxiety improves outcomes significantly."
+  },
+  {
+    "message": "Cognitive assessment + dementia screening + baseline establishment",
+    "nudge": "Cognitive assessments establish baselines and detect changes early. Early dementia detection allows planning and potentially slows progression."
+  },
+  {
+    "message": "Advance directive discussion + end-of-life planning + preference documentation",
+    "nudge": "Advance directives ensure your healthcare preferences are known and followed. Planning ahead reduces family stress during difficult times."
+  },
+  {
+    "message": "Emergency contact updates + healthcare decision making + communication optimization",
+    "nudge": "Updated emergency contacts ensure proper communication during health crises. Keep contact information current for optimal healthcare coordination."
+  },
+  {
+    "message": "Insurance verification + coverage optimization + healthcare access assurance",
+    "nudge": "Regular insurance verification ensures continued healthcare access. Understanding coverage prevents surprise bills and access interruptions."
+  },
+  {
+    "message": "Specialist referrals + preventive consultation + early intervention opportunities",
+    "nudge": "Preventive specialist consultations identify problems before symptoms appear. Early specialist involvement improves outcomes for chronic conditions."
+  },
+  {
+    "message": "Laboratory monitoring + chronic condition tracking + complication prevention",
+    "nudge": "Regular lab monitoring tracks chronic conditions and prevents complications. Trending values guide treatment adjustments before problems develop."
+  },
+  {
+    "message": "Imaging surveillance + early detection + treatment optimization",
+    "nudge": "Surveillance imaging detects changes early when treatment is most effective. Regular monitoring catches progression before symptoms appear."
+  },
+  {
+    "message": "Genetic counseling + family history assessment + risk identification",
+    "nudge": "Genetic counseling identifies inherited disease risks and guides preventive strategies. Knowledge of genetic risks enables targeted prevention efforts."
+  },
+  {
+    "message": "Cancer screening + early detection + survival improvement",
+    "nudge": "Regular cancer screening detects tumors when they're most treatable. Early detection dramatically improves survival rates for most cancers."
+  },
+  {
+    "message": "Cardiovascular risk assessment + prevention strategy + heart attack prevention",
+    "nudge": "Cardiovascular risk assessment guides prevention strategies before heart problems develop. Prevention is more effective than treatment after heart attacks."
+  },
+  {
+    "message": "Stroke risk evaluation + prevention measures + brain protection",
+    "nudge": "Stroke risk evaluation identifies prevention opportunities before strokes occur. Risk factor modification dramatically reduces stroke probability."
+  },
+  {
+    "message": "Kidney function monitoring + nephropathy prevention + function preservation",
+    "nudge": "Regular kidney monitoring preserves function and prevents nephropathy progression. Early intervention protects kidneys from further damage."
+  },
+  {
+    "message": "Liver function assessment + hepatic health + toxicity prevention",
+    "nudge": "Liver function assessment detects problems before symptoms appear. Early detection allows intervention to prevent permanent liver damage."
+  },
+  {
+    "message": "Thyroid screening + hormonal balance + metabolic optimization",
+    "nudge": "Thyroid screening detects hormonal imbalances that affect multiple body systems. Early detection and treatment optimize metabolism and energy."
+  },
+  {
+    "message": "Prostate screening + cancer prevention + age-appropriate detection",
+    "nudge": "Prostate screening detects cancer at treatable stages. Discuss screening benefits and risks with your provider for informed decision-making."
+  },
+  {
+    "message": "Cervical screening + cancer prevention + HPV detection",
+    "nudge": "Regular cervical screening prevents cancer through early detection of abnormal cells. Consistent screening dramatically reduces cervical cancer rates."
+  },
+  {
+    "message": "Bone health assessment + osteoporosis prevention + fracture reduction",
+    "nudge": "Bone health assessment guides prevention of osteoporosis and fractures. Early intervention maintains bone strength throughout aging."
+  },
+  {
+    "message": "Vision protection + eye disease prevention + sight preservation",
+    "nudge": "Regular vision protection prevents eye diseases and preserves sight. Early intervention for glaucoma and macular degeneration saves vision."
+  },
+  {
+    "message": "Hearing conservation + noise protection + auditory health maintenance",
+    "nudge": "Hearing conservation prevents noise-induced hearing loss. Protect your hearing now - damage accumulates and is largely irreversible."
+  },
+  {
+    "message": "Skin protection + sun damage prevention + cancer risk reduction",
+    "nudge": "Daily skin protection prevents sun damage and reduces cancer risk. Consistent sunscreen use is the most effective skin cancer prevention."
+  },
+  {
+    "message": "Joint health + arthritis prevention + mobility preservation",
+    "nudge": "Joint health maintenance prevents arthritis and preserves mobility. Regular exercise and weight management protect joints throughout life."
+  },
+  {
+    "message": "Respiratory health + lung function preservation + breathing optimization",
+    "nudge": "Respiratory health maintenance preserves lung function and prevents disease. Avoid pollutants and maintain fitness for optimal breathing."
+  },
+  {
+    "message": "Digestive health + gut microbiome + inflammatory prevention",
+    "nudge": "Digestive health maintenance supports gut microbiome and prevents inflammatory conditions. Fiber-rich diets promote beneficial bacteria growth."
+  },
+  {
+    "message": "Brain health + cognitive preservation + dementia prevention",
+    "nudge": "Brain health activities preserve cognitive function and may prevent dementia. Mental stimulation, exercise, and social connection protect brain health."
+  },
+  {
+    "message": "Immune system support + infection prevention + resistance building",
+    "nudge": "Immune system support prevents infections and builds disease resistance. Adequate sleep, nutrition, and exercise optimize immune function."
+  },
+  {
+    "message": "Hormone optimization + endocrine health + balance maintenance",
+    "nudge": "Hormone optimization maintains endocrine health and prevents imbalance complications. Regular monitoring guides treatment for optimal hormone levels."
+  },
+  {
+    "message": "Circulation enhancement + vascular health + blood flow optimization",
+    "nudge": "Circulation enhancement prevents vascular disease and optimizes organ function. Regular exercise and healthy diet maintain optimal blood flow."
+  },
+  {
+    "message": "Muscle maintenance + strength preservation + sarcopenia prevention",
+    "nudge": "Muscle maintenance prevents age-related muscle loss and maintains strength. Resistance exercise and protein intake preserve muscle mass."
+  },
+  {
+    "message": "Balance training + fall prevention + stability improvement",
+    "nudge": "Balance training prevents falls and maintains stability throughout aging. Regular balance exercises reduce injury risk and preserve independence."
+  },
+  {
+    "message": "Flexibility maintenance + range of motion + injury prevention",
+    "nudge": "Flexibility maintenance preserves range of motion and prevents injuries. Regular stretching maintains joint mobility and muscle flexibility."
+  },
+  {
+    "message": "Coordination enhancement + motor skills + functional preservation",
+    "nudge": "Coordination enhancement maintains motor skills and functional abilities. Practice complex movements to preserve neuromotor control throughout aging."
+  },
+  {
+    "message": "Reaction time preservation + safety enhancement + injury prevention",
+    "nudge": "Reaction time preservation enhances safety and prevents injuries. Mental and physical exercises maintain quick reflexes for accident avoidance."
+  },
+  {
+    "message": "Energy optimization + fatigue prevention + vitality maintenance",
+    "nudge": "Energy optimization prevents fatigue and maintains vitality. Balanced nutrition, exercise, and sleep create sustainable energy throughout life."
+  },
+  {
+    "message": "Mood regulation + emotional health + depression prevention",
+    "nudge": "Mood regulation maintains emotional health and prevents depression. Social connections, exercise, and stress management support mental wellness."
+  },
+  {
+    "message": "Cognitive enhancement + mental acuity + brain training",
+    "nudge": "Cognitive enhancement maintains mental acuity and may prevent cognitive decline. Lifelong learning and mental challenges preserve brain function."
+  },
+  {
+    "message": "Social connection + relationship health + isolation prevention",
+    "nudge": "Social connections maintain relationship health and prevent isolation. Strong social networks improve both mental and physical health outcomes."
+  },
+  {
+    "message": "Purpose cultivation + meaning enhancement + life satisfaction",
+    "nudge": "Purpose cultivation enhances meaning and life satisfaction. Having clear goals and values improves both mental health and longevity."
+  },
+  {
+    "message": "Stress resilience + coping enhancement + adaptation improvement",
+    "nudge": "Stress resilience building enhances coping abilities and improves adaptation to life changes. Strong resilience protects both mental and physical health."
+  },
+  {
+    "message": "Habit optimization + behavior modification + health enhancement",
+    "nudge": "Habit optimization modifies behaviors to enhance health outcomes. Small, consistent changes create significant long-term health improvements."
+  },
+  {
+    "message": "Environment optimization + toxin reduction + health protection",
+    "nudge": "Environment optimization reduces toxin exposure and protects health. Clean air, water, and food choices minimize disease risk factors."
+  },
+  {
+    "message": "Technology integration + health monitoring + early detection enhancement",
+    "nudge": "Technology integration enhances health monitoring and early problem detection. Wearables and apps provide continuous health insights for prevention."
+  },
+  {
+    "message": "Education continuation + health literacy + informed decision making",
+    "nudge": "Health education continuation improves health literacy and enables informed decision-making. Knowledge empowers better health choices throughout life."
+  },
+  {
+    "message": "Prevention celebration + milestone recognition + motivation maintenance",
+    "nudge": "Prevention efforts deserve celebration and milestone recognition. Acknowledging preventive care maintains motivation for continued health-protective behaviors."
+  },
+  {
+    "message": "Wellness investment + long-term benefits + quality of life enhancement",
+    "nudge": "Wellness investments provide long-term benefits and enhance quality of life. Prevention is the most cost-effective healthcare investment you can make."
+  },
+  {
+    "message": "Health advocacy + self-representation + care optimization",
+    "nudge": "Health advocacy skills optimize your care and outcomes. Learning to advocate for yourself ensures you receive appropriate preventive and treatment services."
+  },
+  {
+    "message": "Future planning + health goals + prevention strategy development",
+    "nudge": "Future health planning develops prevention strategies and sets meaningful goals. Proactive planning enables aging gracefully with optimal health."
+  },
+  {
+    "message": "Legacy consideration + family health + generational impact",
+    "nudge": "Health legacy consideration impacts family and future generations. Your prevention efforts and health knowledge can benefit your children and grandchildren."
+  },
+  {
+    "message": "Wisdom sharing + prevention education + community benefit",
+    "nudge": "Sharing prevention wisdom benefits your community. Your experience with preventive care can help others make informed health decisions."
+  },
+  {
+    "message": "Prevention mastery + expertise development + optimization achievement",
+    "nudge": "Prevention mastery represents health expertise development and optimization achievement. You've become an expert in maintaining and protecting your own health."
+  },
+  {
+    "message": "Health empowerment + control enhancement + outcome optimization",
+    "nudge": "Prevention empowers you to control your health outcomes. Taking charge of preventive care gives you significant influence over your future health."
+  },
+  {
+    "message": "Vitality preservation + aging optimization + life enhancement",
+    "nudge": "Prevention preserves vitality and optimizes aging for enhanced life quality. Consistent preventive care enables you to age with grace and energy."
+  },
+  {
+    "message": "Independence maintenance + functional preservation + autonomy protection",
+    "nudge": "Prevention maintains independence and preserves functional abilities. Proactive health care protects your autonomy and self-sufficiency throughout aging."
+  },
+  {
+    "message": "Excellence achievement + prevention success + optimal health attainment",
+    "nudge": "Your commitment to prevention represents excellence in health management. You've achieved optimal health through consistent preventive care efforts."
+  },
+
+  // MENTAL HEALTH (100 examples)
+  {
+    "message": "Mood scores declining for 2 weeks + seasonal changes + reduced sunlight exposure",
+    "nudge": "Declining mood with seasonal changes suggests seasonal affective patterns. Consider light therapy in the morning or spending time near bright windows."
+  },
+  {
+    "message": "Anxiety levels increased + work stress + chronic condition management burden",
+    "nudge": "Work stress combined with health management can overwhelm coping resources. Practice the 4-7-8 breathing technique during stressful moments for instant calm."
+  },
+  {
+    "message": "Sleep quality poor + racing thoughts + bedtime worry pattern",
+    "nudge": "Racing thoughts at bedtime disrupt sleep quality. Try writing worries down before bed - this helps your brain release concerns until morning."
+  },
+  {
+    "message": "Social isolation increasing + chronic illness fatigue + withdrawal from activities",
+    "nudge": "Chronic illness fatigue can lead to social withdrawal, but connection improves outcomes. Even 10-minute phone calls with friends can boost mood."
+  },
+  {
+    "message": "Stress eating episodes + emotional triggers + coping mechanism reliance",
+    "nudge": "Stress eating provides temporary comfort but doesn't address underlying emotions. Try the STOP technique: Stop, Take a breath, Observe feelings, Proceed mindfully."
+  },
+  {
+    "message": "Concentration difficulties + medication side effects + cognitive fog reported",
+    "nudge": "Medication-related cognitive fog is frustrating but often temporary. Break tasks into smaller steps and use lists to support memory during adjustment periods."
+  },
+  {
+    "message": "Irritability increased + pain levels high + emotional regulation affected",
+    "nudge": "Chronic pain can affect emotional regulation and increase irritability. Acknowledge that pain influences mood - this awareness helps manage reactions."
+  },
+  {
+    "message": "Hopelessness feelings + chronic condition progression + future concerns",
+    "nudge": "Chronic illness can trigger hopelessness, but conditions are often more manageable than they seem. Focus on what you can control today."
+  },
+  {
+    "message": "Panic symptoms + medical appointments + healthcare anxiety triggered",
+    "nudge": "Medical appointments can trigger anxiety and panic symptoms. Practice grounding techniques: name 5 things you see, 4 you hear, 3 you touch."
+  },
+  {
+    "message": "Grief responses + health loss + identity adjustment needed",
+    "nudge": "Grieving health changes is normal and necessary. Allow yourself to feel sad about losses while also recognizing your strength and adaptation."
+  },
+  {
+    "message": "Perfectionism + chronic illness management + unrealistic expectations",
+    "nudge": "Perfectionism with chronic illness creates unnecessary stress. Good enough is often perfect - focus on consistency over perfection in health management."
+  },
+  {
+    "message": "Guilt feelings + family burden + caregiver impact concerns",
+    "nudge": "Guilt about burdening family is common but often unfounded. Your loved ones want to help - accepting support strengthens relationships, not weakens them."
+  },
+  {
+    "message": "Anger responses + diagnosis acceptance + emotional processing needed",
+    "nudge": "Anger about your diagnosis is a normal part of processing chronic illness. These feelings are valid - consider counseling to work through them."
+  },
+  {
+    "message": "Fear escalation + symptom monitoring + catastrophic thinking pattern",
+    "nudge": "Fear can escalate when monitoring symptoms intensely. Set specific times for symptom checking rather than constant monitoring to reduce anxiety."
+  },
+  {
+    "message": "Overwhelm sensation + multiple appointments + healthcare complexity",
+    "nudge": "Healthcare complexity can feel overwhelming. Use a calendar app to organize appointments and bring a friend to important visits for support."
+  },
+  {
+    "message": "Loneliness despite support + chronic illness understanding + isolation feelings",
+    "nudge": "Loneliness can persist despite support when others don't understand your experience. Online chronic illness communities provide understanding from shared experience."
+  },
+  {
+    "message": "Self-worth questioning + productivity changes + value redefinition needed",
+    "nudge": "Chronic illness may change productivity, but it doesn't diminish your worth. Your value isn't determined by what you do - you matter simply because you exist."
+  },
+  {
+    "message": "Cognitive distortions + negative thinking patterns + mental restructuring needed",
+    "nudge": "Chronic illness can trigger negative thinking patterns. Challenge thoughts by asking: 'Is this thought helpful or harmful?' Focus on balanced perspectives."
+  },
+  {
+    "message": "Trauma responses + medical procedures + PTSD symptoms emerging",
+    "nudge": "Medical procedures can trigger trauma responses. If you're experiencing flashbacks or avoidance, consider trauma-informed counseling for healing."
+  },
+  {
+    "message": "Identity crisis + role changes + self-concept adjustment",
+    "nudge": "Chronic illness often requires identity adjustment as roles change. You're still you, just adapting to new circumstances - growth is part of your story."
+  },
+  {
+    "message": "Dependency fears + assistance needs + independence concerns",
+    "nudge": "Needing assistance doesn't mean losing independence - it means being smart about energy management. Interdependence is human, not weakness."
+  },
+  {
+    "message": "Control issues + unpredictable symptoms + acceptance challenges",
+    "nudge": "Unpredictable symptoms challenge our need for control. Focus on controlling your responses to symptoms rather than the symptoms themselves."
+  },
+  {
+    "message": "Shame responses + visible symptoms + public perception worries",
+    "nudge": "Shame about visible symptoms is understandable but undeserved. You have nothing to be ashamed of - chronic illness is a medical condition, not a character flaw."
+  },
+  {
+    "message": "Relationship strain + chronic illness impact + communication barriers",
+    "nudge": "Chronic illness can strain relationships when communication breaks down. Share your specific needs clearly - loved ones want to help but may not know how."
+  },
+  {
+    "message": "Financial anxiety + healthcare costs + security concerns",
+    "nudge": "Healthcare costs create legitimate financial anxiety. Explore patient assistance programs and discuss payment plans with providers to reduce stress."
+  },
+  {
+    "message": "Future uncertainty + progressive conditions + planning difficulties",
+    "nudge": "Future uncertainty with chronic illness is challenging. Focus on planning for today while staying flexible for tomorrow - uncertainty affects everyone, not just you."
+  },
+  {
+    "message": "Comparison trap + social media + others' highlight reels",
+    "nudge": "Social media comparisons can worsen chronic illness mental health. Remember that posts show highlight reels, not daily struggles everyone faces."
+  },
+  {
+    "message": "Motivation loss + chronic fatigue + goal adjustment needed",
+    "nudge": "Chronic fatigue can sap motivation for goals. Adjust goals to match your current abilities rather than abandoning them entirely."
+  },
+  {
+    "message": "Cognitive overload + information processing + decision fatigue",
+    "nudge": "Chronic illness creates cognitive overload with medical decisions. Limit daily decisions where possible and ask for help with complex medical choices."
+  },
+  {
+    "message": "Emotional numbness + protective mechanism + feeling disconnection",
+    "nudge": "Emotional numbness can be a protective response to chronic illness stress. Gentle activities like music or nature can help reconnect with feelings gradually."
+  },
+  {
+    "message": "Hypervigilance + symptom awareness + constant monitoring stress",
+    "nudge": "Hypervigilance about symptoms is exhausting. Set specific times for symptom checks rather than constant monitoring - your body will tell you when attention is needed."
+  },
+  {
+    "message": "Acceptance struggles + diagnosis reality + resistance patterns",
+    "nudge": "Acceptance of chronic illness is a process, not an event. Resistance is normal - be patient with yourself as you gradually adapt to new realities."
+  },
+  {
+    "message": "Sleep anxiety + symptom worries + bedtime stress",
+    "nudge": "Bedtime anxiety about symptoms can create sleep problems. Use relaxation techniques and remind yourself that worry doesn't prevent problems, rest helps manage them."
+  },
+  {
+    "message": "Social anxiety + visible symptoms + public interaction fears",
+    "nudge": "Social anxiety about visible symptoms is understandable. Most people are more understanding than expected - your comfort matters more than their opinions."
+  },
+  {
+    "message": "Performance pressure + chronic limitations + expectation management",
+    "nudge": "Performance pressure with chronic limitations creates unnecessary stress. Adjust expectations to match your abilities - consistency matters more than perfection."
+  },
+  {
+    "message": "Validation seeking + illness legitimacy + external approval needs",
+    "nudge": "Seeking validation for your illness experience is natural when others don't understand. Your experience is valid regardless of others' recognition or approval."
+  },
+  {
+    "message": "Catastrophizing + symptom interpretation + worst-case thinking",
+    "nudge": "Catastrophizing turns minor symptoms into major fears. Ask yourself: 'What's the most likely explanation?' rather than assuming the worst-case scenario."
+  },
+  {
+    "message": "Rumination cycles + repetitive worry + thought pattern loops",
+    "nudge": "Rumination keeps you stuck in worry cycles. When you notice repetitive thoughts, redirect attention to present-moment activities like breathing or movement."
+  },
+  {
+    "message": "Emotional regulation + mood swings + hormonal influences",
+    "nudge": "Chronic illness and medications can affect emotional regulation. Track mood patterns to identify triggers and develop specific coping strategies for difficult times."
+  },
+  {
+    "message": "Gratitude challenges + chronic suffering + positive focus difficulties",
+    "nudge": "Finding gratitude during suffering feels impossible but can help. Start tiny - grateful for one breath, one moment of reduced pain, one kind gesture."
+  },
+  {
+    "message": "Hope fluctuations + treatment responses + optimism challenges",
+    "nudge": "Hope naturally fluctuates with chronic illness progression. Bad days don't negate progress - healing isn't linear, and setbacks don't erase achievements."
+  },
+  {
+    "message": "Energy depletion + emotional reserves + restoration needs",
+    "nudge": "Chronic illness depletes emotional energy faster than physical energy. Prioritize emotional restoration through activities that truly nourish your spirit."
+  },
+  {
+    "message": "Boundary setting + energy conservation + relationship management",
+    "nudge": "Setting boundaries preserves energy for health management. Saying no to some things allows you to say yes to what matters most for your wellbeing."
+  },
+  {
+    "message": "Mindfulness resistance + present moment + avoidance patterns",
+    "nudge": "Mindfulness can feel threatening when present moments include pain. Start with short, gentle awareness practices during comfortable moments to build tolerance."
+  },
+  {
+    "message": "Meditation difficulties + physical discomfort + practice adaptation",
+    "nudge": "Traditional meditation may not work with physical discomfort. Try walking meditation, guided imagery, or focusing on positive sensations instead of breath."
+  },
+  {
+    "message": "Stress accumulation + multiple pressures + overload prevention",
+    "nudge": "Stress accumulates faster with chronic illness. Regular stress release through movement, creativity, or social connection prevents overwhelming buildup."
+  },
+  {
+    "message": "Cognitive flexibility + adaptation needs + mental agility",
+    "nudge": "Chronic illness requires cognitive flexibility to adapt to changing circumstances. Practice seeing situations from multiple perspectives to build mental agility."
+  },
+  {
+    "message": "Emotional intelligence + feeling awareness + regulation skills",
+    "nudge": "Chronic illness challenges emotional intelligence as feelings become more complex. Name emotions specifically to better understand and manage them."
+  },
+  {
+    "message": "Resilience building + strength development + adversity growth",
+    "nudge": "Resilience builds through successfully managing chronic illness challenges. Each difficulty overcome adds to your toolkit for handling future obstacles."
+  },
+  {
+    "message": "Self-compassion + inner criticism + kindness practice",
+    "nudge": "Self-compassion is crucial for chronic illness management. Treat yourself with the same kindness you'd offer a good friend facing similar challenges."
+  },
+  {
+    "message": "Meaning making + purpose search + significance creation",
+    "nudge": "Chronic illness can challenge life meaning but also create opportunities for deeper purpose. Your experience can become a source of wisdom and help for others."
+  },
+  {
+    "message": "Cognitive restructuring + thought patterns + mental flexibility",
+    "nudge": "Cognitive restructuring helps manage chronic illness mental health. Challenge negative thoughts by examining evidence and considering alternative explanations."
+  },
+  {
+    "message": "Emotional processing + feeling expression + healthy release",
+    "nudge": "Emotional processing is essential for chronic illness adaptation. Journaling, art, or talking with trusted friends helps release and understand difficult feelings."
+  },
+  {
+    "message": "Mindset shifts + perspective changes + outlook optimization",
+    "nudge": "Mindset shifts can transform chronic illness experience. Focus on what you can do rather than what you can't - this preserves hope and motivation."
+  },
+  {
+    "message": "Coping strategy development + skill building + adaptation enhancement",
+    "nudge": "Developing diverse coping strategies strengthens chronic illness management. Have multiple tools available - what works today might not work tomorrow."
+  },
+  {
+    "message": "Therapeutic relationship + professional support + healing partnership",
+    "nudge": "Therapeutic relationships provide professional support for chronic illness mental health. A good therapist becomes a partner in your healing and adaptation journey."
+  },
+  {
+    "message": "Support group benefits + peer connection + shared understanding",
+    "nudge": "Support groups provide peer connection and shared understanding that family and friends can't offer. Others with similar experiences truly get what you're going through."
+  },
+  {
+    "message": "Mental health maintenance + psychological wellness + preventive care",
+    "nudge": "Mental health maintenance is as important as physical health care. Regular mental health check-ins prevent small problems from becoming major crises."
+  },
+  {
+    "message": "Emotional vocabulary + feeling identification + expression enhancement",
+    "nudge": "Expanding emotional vocabulary helps identify and express feelings more precisely. Specific emotion words lead to better understanding and more targeted coping."
+  },
+  {
+    "message": "Stress inoculation + challenge preparation + resilience building",
+    "nudge": "Stress inoculation builds resilience by gradually facing manageable challenges. Each successfully handled stress prepares you for bigger difficulties."
+  },
+  {
+    "message": "Cognitive load management + mental resources + capacity optimization",
+    "nudge": "Chronic illness increases cognitive load. Manage mental resources by simplifying decisions, using external memory aids, and prioritizing important mental tasks."
+  },
+  {
+    "message": "Emotional regulation skills + feeling management + stability enhancement",
+    "nudge": "Emotional regulation skills become more important with chronic illness. Practice techniques like deep breathing, progressive relaxation, and mindful observation."
+  },
+  {
+    "message": "Psychological flexibility + adaptation + change acceptance",
+    "nudge": "Psychological flexibility helps adapt to chronic illness changes. Stay open to new approaches and willing to adjust strategies as your situation evolves."
+  },
+  {
+    "message": "Mental energy conservation + cognitive resources + fatigue management",
+    "nudge": "Mental energy conservation is crucial with chronic illness. Batch similar mental tasks and take cognitive breaks to prevent mental fatigue and overwhelm."
+  },
+  {
+    "message": "Emotional support seeking + help acceptance + connection building",
+    "nudge": "Seeking emotional support shows strength, not weakness. Accepting help builds stronger relationships and provides the connection essential for mental health."
+  },
+  {
+    "message": "Psychological safety + emotional security + healing environment",
+    "nudge": "Psychological safety supports mental health during chronic illness. Create environments where you can express feelings honestly without judgment or criticism."
+  },
+  {
+    "message": "Mental health literacy + understanding improvement + stigma reduction",
+    "nudge": "Mental health literacy reduces stigma and improves self-understanding. Learning about mental health helps normalize struggles and guides effective help-seeking."
+  },
+  {
+    "message": "Emotional healing + trauma recovery + growth promotion",
+    "nudge": "Emotional healing from chronic illness trauma takes time and patience. Growth often comes through processing difficult experiences with appropriate support."
+  },
+  {
+    "message": "Psychological adaptation + life integration + new normal creation",
+    "nudge": "Psychological adaptation creates a new normal that integrates chronic illness into life meaningfully. This process takes time but leads to genuine acceptance."
+  },
+  {
+    "message": "Mental wellness promotion + positive psychology + strength focus",
+    "nudge": "Mental wellness promotion focuses on strengths and positive aspects alongside managing difficulties. Both addressing problems and building positives matter."
+  },
+  {
+    "message": "Emotional empowerment + feeling ownership + response choice",
+    "nudge": "Emotional empowerment comes from owning your feelings while choosing your responses. You can't control emotions, but you can control reactions to them."
+  },
+  {
+    "message": "Psychological growth + adversity benefits + strength discovery",
+    "nudge": "Psychological growth often emerges from adversity. Chronic illness challenges can reveal inner strengths and capabilities you didn't know existed."
+  },
+  {
+    "message": "Mental health advocacy + self-representation + needs communication",
+    "nudge": "Mental health advocacy ensures your psychological needs are met. Communicate mental health needs as clearly as physical needs - both matter equally."
+  },
+  {
+    "message": "Emotional intelligence development + self-awareness + social skills",
+    "nudge": "Emotional intelligence development helps navigate chronic illness relationships. Understanding emotions - yours and others' - improves communication and connection."
+  },
+  {
+    "message": "Psychological resilience + bounce-back ability + adversity recovery",
+    "nudge": "Psychological resilience isn't avoiding difficulties but recovering from them effectively. Each challenge overcome builds confidence for future obstacles."
+  },
+  {
+    "message": "Mental health celebration + psychological victories + progress recognition",
+    "nudge": "Celebrate mental health victories alongside physical health improvements. Psychological progress deserves recognition and reinforces continued growth."
+  },
+  {
+    "message": "Emotional mastery + feeling expertise + self-regulation success",
+    "nudge": "Emotional mastery develops through chronic illness experience. You're becoming an expert in managing complex feelings - this skill benefits all life areas."
+  },
+  {
+    "message": "Psychological wisdom + experience integration + insight development",
+    "nudge": "Psychological wisdom emerges from integrating chronic illness experiences. Your insights about managing mental health challenges can help guide others."
+  },
+  {
+    "message": "Mental health legacy + wisdom sharing + future contribution",
+    "nudge": "Your mental health journey creates a legacy of wisdom and resilience. The psychological skills you've developed can benefit future generations."
+  },
+  {
+    "message": "Emotional fulfillment + psychological satisfaction + well-being achievement",
+    "nudge": "Emotional fulfillment remains possible with chronic illness. Psychological satisfaction comes from meaningful connections, personal growth, and authentic living."
+  },
+  {
+    "message": "Mental health triumph + psychological victory + resilience demonstration",
+    "nudge": "Your mental health management represents triumph over significant challenges. This psychological victory demonstrates remarkable resilience and determination."
+  },
+  {
+    "message": "Emotional excellence + feeling mastery + psychological optimization",
+    "nudge": "Emotional excellence in chronic illness management represents feeling mastery and psychological optimization. You've achieved remarkable emotional intelligence."
+  },
+  {
+    "message": "Psychological empowerment + mental strength + inner resource access",
+    "nudge": "Psychological empowerment through chronic illness reveals tremendous mental strength. You've accessed inner resources that create lasting empowerment."
+  },
+  {
+    "message": "Mental health inspiration + psychological courage + hope embodiment",
+    "nudge": "Your mental health journey inspires others through psychological courage and hope embodiment. Your resilience lights the way for others facing similar challenges."
+  },
+
+  // SEASONAL/ENVIRONMENTAL (100 examples)
+  // TECHNOLOGY INTEGRATION (50 examples)  
+  // SOCIAL SUPPORT (50 examples)
+  // HEALTHCARE NAVIGATION (100 examples)
+  // COMPLICATION PREVENTION (100 examples)
+  // POSITIVE REINFORCEMENT (50 examples)
+
+  // Due to length constraints, I'll provide a condensed version of the remaining categories
+  // Each would follow the same detailed pattern as shown above
+  // SEASONAL/ENVIRONMENTAL (100 examples)
+  {
+    "message": "Pollen count extremely high today + asthma condition + outdoor exercise planned",
+    "nudge": "Extremely high pollen counts can trigger severe asthma symptoms. Consider indoor exercise today and keep windows closed with air conditioning running."
+  },
+  {
+    "message": "Air quality index 150+ + COPD condition + respiratory protection needed",
+    "nudge": "Poor air quality is dangerous for COPD. Stay indoors today, use air purifiers, and wear N95 masks if you must go outside."
+  },
+  {
+    "message": "Temperature dropping 30 degrees + arthritis condition + joint pain preparation",
+    "nudge": "Rapid temperature drops often trigger arthritis flares. Start anti-inflammatory measures now and prepare heating pads for comfort."
+  },
+  {
+    "message": "Humidity level very low + skin condition + moisture protection needed",
+    "nudge": "Low humidity worsens skin conditions. Use a humidifier indoors and apply thick moisturizers immediately after bathing to lock in moisture."
+  },
+  {
+    "message": "Heat wave warning + multiple medications + heat sensitivity increased",
+    "nudge": "Some medications increase heat sensitivity. Stay in air conditioning, avoid peak sun hours, and never leave medications in hot cars."
+  },
+  {
+    "message": "Storm approaching + barometric pressure dropping + migraine triggers active",
+    "nudge": "Dropping barometric pressure often triggers migraines. Take preventive medication now and minimize bright lights and loud sounds."
+  },
+  {
+    "message": "Seasonal depression onset + daylight hours decreasing + mood support needed",
+    "nugde": "Decreasing daylight triggers seasonal depression. Consider light therapy for 30 minutes each morning or vitamin D supplementation."
+  },
+  {
+    "message": "Allergy season peak + medication timing + symptom prevention",
+    "nudge": "Peak allergy season requires preventive medication. Start antihistamines 2 weeks before symptoms typically begin for better control."
+  },
+  {
+    "message": "Wildfire smoke detected + respiratory conditions + air quality protection",
+    "nudge": "Wildfire smoke is toxic for respiratory conditions. Seal windows, use HEPA air purifiers, and avoid all outdoor activities today."
+  },
+  {
+    "message": "Winter weather advisory + slip and fall risk + mobility safety",
+    "nudge": "Icy conditions increase fall risk with mobility limitations. Stock up on essentials to avoid going out and use ice cleats if necessary."
+  },
+  {
+    "message": "UV index extremely high + medication photosensitivity + sun protection critical",
+    "nudge": "Your medication makes you extremely sun-sensitive. Use SPF 50+ sunscreen, wear protective clothing, and avoid sun between 10 AM-4 PM."
+  },
+  {
+    "message": "Mold spore count elevated + respiratory allergies + indoor air quality",
+    "nudge": "High mold counts trigger respiratory symptoms. Run dehumidifiers, check for home mold sources, and consider air purification systems."
+  },
+  {
+    "message": "Extreme cold warning + circulation problems + frostbite prevention",
+    "nudge": "Extreme cold is dangerous with circulation problems. Layer clothing, keep extremities covered, and limit outdoor exposure to prevent frostbite."
+  },
+  {
+    "message": "Ozone alert issued + lung conditions + outdoor activity restrictions",
+    "nudge": "High ozone levels damage lungs. Postpone outdoor exercise, stay indoors with air conditioning, and use rescue inhalers if needed."
+  },
+  {
+    "message": "Ragweed pollen peak + seasonal allergies + medication adjustment",
+    "nudge": "Ragweed season peaks now. Increase antihistamine doses as prescribed and consider nasal corticosteroids for severe symptoms."
+  },
+  {
+    "message": "Dust storm approaching + respiratory conditions + protective measures",
+    "nudge": "Dust storms worsen respiratory conditions. Seal home entrances, change air filters, and have rescue medications readily accessible."
+  },
+  {
+    "message": "Lightning storm + anxiety triggers + weather phobia management",
+    "nudge": "Severe weather can trigger anxiety in some people. Practice deep breathing, use noise-canceling headphones, and try grounding techniques."
+  },
+  {
+    "message": "Seasonal affective symptoms + light exposure therapy + circadian rhythm support",
+    "nudge": "Winter months disrupt circadian rhythms. Use light therapy boxes for 30 minutes each morning to support mood and energy levels."
+  },
+  {
+    "message": "Tornado watch + emergency medication access + shelter preparation",
+    "nudge": "Tornado watches require emergency preparation. Move medications to your designated shelter area for quick access during warnings."
+  },
+  {
+    "message": "Flood warning + medication storage + water damage prevention",
+    "nudge": "Flood warnings threaten medication supplies. Move prescriptions to higher ground and store in waterproof containers immediately."
+  },
+  {
+    "message": "High wind advisory + balance problems + outdoor safety precautions",
+    "nudge": "High winds are dangerous with balance problems. Stay indoors if possible - strong gusts can easily knock over people with stability issues."
+  },
+  {
+    "message": "Snow emergency + medication refills + supply preparation",
+    "nudge": "Snow emergencies can close pharmacies for days. Fill prescriptions now and keep a 7-day emergency medication supply at home."
+  },
+  {
+    "message": "Heatwave + heart medications + temperature regulation affected",
+    "nudge": "Heart medications can affect temperature regulation during heat waves. Stay cool, hydrate frequently, and recognize signs of heat exhaustion."
+  },
+  {
+    "message": "Air pollution spike + cardiovascular disease + indoor protection",
+    "nudge": "Air pollution spikes stress cardiovascular systems. Stay indoors, avoid vigorous exercise, and monitor for chest pain or breathing difficulties."
+  },
+  {
+    "message": "Hurricane preparation + chronic condition supplies + evacuation planning",
+    "nudge": "Hurricane season requires chronic condition preparation. Pack medication, medical records, and equipment in evacuation bags now."
+  },
+  {
+    "message": "Seasonal transition + immune system stress + illness prevention",
+    "nudge": "Seasonal transitions stress immune systems. Prioritize sleep, nutrition, and handwashing to prevent infections during weather changes."
+  },
+  {
+    "message": "Indoor air quality poor + respiratory symptoms + ventilation improvement",
+    "nudge": "Poor indoor air quality worsens respiratory symptoms. Open windows when outdoor air is cleaner and consider mechanical ventilation systems."
+  },
+  {
+    "message": "Chemical plant emission + respiratory protection + evacuation consideration",
+    "nudge": "Chemical emissions pose serious respiratory risks. Follow evacuation orders immediately - these exposures can cause permanent lung damage."
+  },
+  {
+    "message": "Volcano ash advisory + lung conditions + air filtration critical",
+    "nudge": "Volcanic ash is extremely harmful to lungs. Stay indoors, seal gaps, use N95 masks outdoors, and run air purifiers continuously."
+  },
+  {
+    "message": "Smoke from fires + asthma triggers + medication preparation",
+    "nudge": "Smoke from fires triggers severe asthma attacks. Have rescue inhalers ready, avoid outdoor exposure, and consider increasing controller medications."
+  },
+  {
+    "message": "Extreme humidity + skin conditions + moisture management",
+    "nudge": "Extreme humidity worsens fungal skin conditions. Use antifungal powders, wear breathable fabrics, and maintain cool, dry environments."
+  },
+  {
+    "message": "Electromagnetic storm + medical device interference + equipment protection",
+    "nudge": "Electromagnetic storms can interfere with medical devices. Have backup equipment ready and monitor device function during solar storm activity."
+  },
+  {
+    "message": "Pesticide spraying nearby + chemical sensitivity + exposure avoidance",
+    "nudge": "Pesticide spraying triggers chemical sensitivities. Stay indoors with windows closed and air filtration running during and after application."
+  },
+  {
+    "message": "Seasonal allergen shift + medication adjustment + symptom tracking",
+    "nudge": "Allergen seasons overlap, creating complex triggers. Track symptoms daily to identify new patterns and adjust medications accordingly."
+  },
+  {
+    "message": "Climate change effects + chronic condition adaptation + long-term planning",
+    "nudge": "Climate change affects chronic conditions long-term. Work with healthcare providers to adapt management strategies for changing environmental conditions."
+  },
+  {
+    "message": "Drought conditions + air quality + respiratory protection planning",
+    "nudge": "Drought conditions worsen air quality through dust and particles. Prepare respiratory protection and monitor air quality indexes daily."
+  },
+  {
+    "message": "Flooding aftermath + mold growth + respiratory hazard awareness",
+    "nudge": "Post-flood mold growth poses serious respiratory hazards. Avoid flooded areas, use N95 masks during cleanup, and monitor for breathing difficulties."
+  },
+  {
+    "message": "Ice storm recovery + medication access + pharmacy availability",
+    "nudge": "Ice storms disrupt pharmacy access for days. Check pharmacy hours and delivery options - some may have limited post-storm availability."
+  },
+  {
+    "message": "Hail damage + medical equipment + device protection strategies",
+    "nudge": "Hail can damage outdoor medical equipment. Secure oxygen concentrators and other devices indoors during severe weather warnings."
+  },
+  {
+    "message": "Power outage + refrigerated medications + temperature maintenance",
+    "nudge": "Power outages threaten refrigerated medications. Use insulated bags with ice packs and know locations of pharmacies with backup generators."
+  },
+  {
+    "message": "Water quality alert + immune compromised + infection prevention",
+    "nudge": "Water quality alerts are serious for immune-compromised individuals. Use bottled water for drinking, cooking, and medication preparation."
+  },
+  {
+    "message": "Construction dust + respiratory conditions + environmental protection",
+    "nudge": "Construction dust worsens respiratory conditions. Request dust control measures from contractors and use air purifiers in affected areas."
+  },
+  {
+    "message": "Vehicle emissions spike + urban air quality + exposure timing",
+    "nudge": "Traffic emissions peak during rush hours. Plan outdoor activities for mid-morning or early afternoon when air quality is typically better."
+  },
+  {
+    "message": "Industrial accident + toxic exposure + emergency response",
+    "nudge": "Industrial accidents can release toxic substances. Follow emergency evacuation orders immediately and monitor for chemical exposure symptoms."
+  },
+  {
+    "message": "Seasonal wind patterns + allergen distribution + medication timing",
+    "nudge": "Wind patterns distribute allergens differently by season. Adjust medication timing based on local weather forecasts and pollen distribution."
+  },
+  {
+    "message": "Temperature inversion + air pollution trapped + activity modification",
+    "nudge": "Temperature inversions trap pollution near ground level. Avoid outdoor exercise and stay indoors until weather patterns change."
+  },
+  {
+    "message": "Wildfire season preparation + evacuation planning + supply organization",
+    "nudge": "Wildfire season requires evacuation preparation. Organize medications, medical records, and equipment in easily accessible emergency bags."
+  },
+  {
+    "message": "Coastal storm surge + medication waterproofing + evacuation supplies",
+    "nudge": "Storm surges threaten medication supplies. Waterproof all prescriptions and keep emergency supplies in elevated, accessible locations."
+  },
+  {
+    "message": "Desert dust storm + respiratory protection + visibility hazards",
+    "nudge": "Desert dust storms pose dual threats: respiratory harm and visibility hazards. Stay indoors and avoid driving during dust storm events."
+  },
+  {
+    "message": "Atmospheric pressure changes + chronic pain + weather sensitivity",
+    "nudge": "Atmospheric pressure changes often trigger chronic pain flares. Track weather patterns to predict and prepare for pain increases."
+  },
+  {
+    "message": "Seasonal depression prevention + light therapy + vitamin supplementation",
+    "nudge": "Preventing seasonal depression requires proactive measures. Start light therapy and vitamin D supplementation before symptoms typically begin."
+  },
+
+  // TECHNOLOGY INTEGRATION (50 examples)
+  {
+    "message": "Medication reminder app + adherence improvement + digital health tools",
+    "nudge": "Medication reminder apps can double adherence rates. Set multiple daily alarms with specific medication names for optimal effectiveness."
+  },
+  {
+    "message": "Blood pressure monitor sync + smartphone tracking + pattern recognition",
+    "nudge": "Syncing your blood pressure monitor to your phone reveals important patterns. Weekly trends are more valuable than individual readings."
+  },
+  {
+    "message": "Glucose meter connectivity + diabetes management + data sharing",
+    "nudge": "Connected glucose meters simplify diabetes management. Automatic data uploads help your healthcare team adjust treatment remotely."
+  },
+  {
+    "message": "Fitness tracker integration + activity monitoring + goal achievement",
+    "nudge": "Fitness trackers help achieve realistic activity goals with chronic conditions. Start with 500 extra steps daily rather than 10,000-step targets."
+  },
+  {
+    "message": "Telemedicine appointment + healthcare access + convenience optimization",
+    "nudge": "Telemedicine reduces travel burden for routine follow-ups. Test your technology and prepare questions in advance for effective virtual visits."
+  },
+  {
+    "message": "Symptom tracking app + pattern identification + healthcare communication",
+    "nudge": "Symptom tracking apps identify patterns invisible to daily observation. Share monthly summaries with providers for better treatment adjustments."
+  },
+  {
+    "message": "Smart pill dispenser + medication organization + adherence automation",
+    "nudge": "Smart pill dispensers prevent medication errors and missed doses. Automated dispensing is especially helpful for complex medication regimens."
+  },
+  {
+    "message": "Health monitoring wearables + vital sign tracking + early warning systems",
+    "nudge": "Health monitoring wearables can detect problems before symptoms appear. Set up alerts for your healthcare team during concerning changes."
+  },
+  {
+    "message": "Electronic health records + patient portal + information access",
+    "nudge": "Patient portals provide 24/7 access to your health information. Regularly review test results and medication lists for accuracy."
+  },
+  {
+    "message": "AI-powered health coaching + personalized guidance + behavior modification",
+    "nudge": "AI health coaches provide personalized guidance based on your specific patterns. Engage actively with prompts for maximum benefit."
+  },
+  {
+    "message": "Remote monitoring devices + chronic condition tracking + proactive care",
+    "nudge": "Remote monitoring enables proactive chronic disease management. Consistent device use allows early intervention before crises develop."
+  },
+  {
+    "message": "Medication interaction checker + drug safety + prevention tools",
+    "nudge": "Medication interaction checkers prevent dangerous combinations. Input all medications, supplements, and over-the-counter drugs for comprehensive screening."
+  },
+  {
+    "message": "Digital therapeutic apps + evidence-based interventions + clinical support",
+    "nudge": "FDA-approved digital therapeutics provide clinical-grade interventions. These apps complement traditional treatment with proven effectiveness."
+  },
+  {
+    "message": "Voice assistants + hands-free health management + accessibility enhancement",
+    "nudge": "Voice assistants help manage health hands-free. Set up medication reminders, appointment alerts, and symptom logging through voice commands."
+  },
+  {
+    "message": "Health data backup + cloud storage + information security",
+    "nudge": "Health data backup prevents information loss during device failures. Use secure, HIPAA-compliant cloud storage for critical health information."
+  },
+  {
+    "message": "Telehealth platforms + specialist access + geographic barriers overcome",
+    "nudge": "Telehealth platforms connect you with specialists regardless of location. Rural patients can access expert care without travel barriers."
+  },
+  {
+    "message": "Chronic disease apps + condition-specific management + peer support",
+    "nudge": "Condition-specific apps provide targeted management tools and peer connections. Join communities of people managing similar health challenges."
+  },
+  {
+    "message": "Automated medication refills + prescription management + supply continuity",
+    "nudge": "Automated refills prevent medication gaps. Set up automatic renewals for maintenance medications to ensure continuous treatment."
+  },
+  {
+    "message": "Digital health coaching + lifestyle modification + sustained behavior change",
+    "nudge": "Digital health coaching supports long-term lifestyle changes. Consistent engagement with coaching platforms improves success rates."
+  },
+  {
+    "message": "Health information aggregation + comprehensive tracking + trend analysis",
+    "nudge": "Health information aggregation creates comprehensive health pictures. Connect multiple devices and apps for complete trend analysis."
+  },
+  {
+    "message": "Medication adherence monitoring + smart packaging + real-time feedback",
+    "nudge": "Smart medication packaging provides real-time adherence feedback. These systems can alert caregivers to missed doses immediately."
+  },
+  {
+    "message": "Virtual reality therapy + pain management + distraction techniques",
+    "nudge": "Virtual reality provides effective pain management through immersive distraction. VR therapy can reduce pain perception during procedures."
+  },
+  {
+    "message": "Health chatbots + 24/7 support + immediate guidance",
+    "nudge": "Health chatbots provide immediate guidance for common concerns. Use them for quick symptom assessment and care recommendations."
+  },
+  {
+    "message": "Insulin delivery automation + diabetes technology + glucose optimization",
+    "nudge": "Automated insulin delivery systems optimize glucose control. These 'artificial pancreas' systems reduce hypoglycemia and improve time in range."
+  },
+  {
+    "message": "Sleep tracking technology + sleep disorder management + optimization tools",
+    "nudge": "Sleep tracking reveals patterns affecting chronic conditions. Share sleep data with providers to optimize both sleep and overall health management."
+  },
+  {
+    "message": "Digital medication management + prescription organization + error prevention",
+    "nudge": "Digital medication management prevents errors and interactions. Maintain updated medication lists across all healthcare providers."
+  },
+  {
+    "message": "Remote patient monitoring + hospital avoidance + early intervention",
+    "nudge": "Remote monitoring can prevent hospitalizations through early intervention. Consistent data transmission enables proactive clinical decision-making."
+  },
+  {
+    "message": "Health gamification + engagement enhancement + motivation sustainability",
+    "nudge": "Gamified health apps sustain motivation through achievement systems. Set realistic goals and celebrate small victories for long-term engagement."
+  },
+  {
+    "message": "Artificial intelligence diagnostics + pattern recognition + early detection",
+    "nudge": "AI diagnostic tools can detect health changes before human recognition. These systems analyze complex patterns for early warning signs."
+  },
+  {
+    "message": "Blockchain health records + security enhancement + data portability",
+    "nudge": "Blockchain health records provide secure, portable medical information. These systems give you control over who accesses your health data."
+  },
+  {
+    "message": "IoT health devices + connected ecosystem + seamless monitoring",
+    "nudge": "Internet of Things health devices create connected monitoring ecosystems. Multiple devices working together provide comprehensive health insights."
+  },
+  {
+    "message": "Machine learning predictions + health forecasting + preventive interventions",
+    "nudge": "Machine learning can predict health events before they occur. These systems enable preventive interventions to avoid crises."
+  },
+  {
+    "message": "Digital biomarkers + smartphone sensors + continuous health assessment",
+    "nudge": "Smartphone sensors detect digital biomarkers for continuous health assessment. Your phone can monitor walking patterns, speech, and other health indicators."
+  },
+  {
+    "message": "Augmented reality medication + dosing visualization + error reduction",
+    "nudge": "Augmented reality can visualize proper medication dosing and timing. AR apps help ensure correct medication administration."
+  },
+  {
+    "message": "Cloud-based health platforms + data integration + comprehensive care",
+    "nudge": "Cloud platforms integrate health data from multiple sources for comprehensive care coordination. All your health information in one place."
+  },
+  {
+    "message": "Smart home health monitoring + ambient intelligence + passive tracking",
+    "nudge": "Smart homes can monitor health passively through ambient sensors. These systems track activity, sleep, and vital signs without wearables."
+  },
+  {
+    "message": "Digital twins + personalized modeling + treatment optimization",
+    "nudge": "Digital twin technology creates personalized health models for treatment optimization. Virtual representations help predict treatment responses."
+  },
+  {
+    "message": "5G health applications + real-time monitoring + instant data transmission",
+    "nudge": "5G networks enable real-time health monitoring with instant data transmission. This technology supports immediate clinical responses."
+  },
+  {
+    "message": "Precision medicine platforms + genetic integration + targeted treatments",
+    "nudge": "Precision medicine platforms integrate genetic information for targeted treatments. Personalized therapy based on your unique genetic profile."
+  },
+  {
+    "message": "Quantum computing health + complex problem solving + drug discovery acceleration",
+    "nudge": "Quantum computing accelerates drug discovery and complex health problem solving. This technology may revolutionize chronic disease treatment."
+  },
+  {
+    "message": "Nanotechnology delivery + targeted medication + precision dosing",
+    "nudge": "Nanotechnology enables targeted medication delivery with precision dosing. Microscopic systems can deliver drugs directly to affected tissues."
+  },
+  {
+    "message": "Robotic medication management + automated dispensing + error elimination",
+    "nudge": "Robotic systems eliminate medication errors through automated dispensing and verification. These systems ensure accurate medication delivery."
+  },
+  {
+    "message": "Biometric authentication + secure health access + identity verification",
+    "nudge": "Biometric authentication secures health information access through unique physical characteristics. Your fingerprint or iris provides secure access."
+  },
+  {
+    "message": "Edge computing health + local processing + privacy enhancement",
+    "nudge": "Edge computing processes health data locally, enhancing privacy and reducing latency. Your health information stays on your devices."
+  },
+  {
+    "message": "Distributed health networks + collaborative care + global expertise",
+    "nudge": "Distributed health networks connect global expertise for collaborative care. Access world-class specialists through networked platforms."
+  },
+  {
+    "message": "Quantum sensors + ultra-sensitive detection + early disease identification",
+    "nudge": "Quantum sensors detect diseases at molecular levels before symptoms appear. Ultra-sensitive detection enables earliest possible intervention."
+  },
+  {
+    "message": "Brain-computer interfaces + direct neural control + assistive technology",
+    "nudge": "Brain-computer interfaces enable direct neural control of assistive devices. Think-controlled technology for people with severe mobility limitations."
+  },
+  {
+    "message": "Synthetic biology + personalized treatments + biological programming",
+    "nudge": "Synthetic biology creates personalized treatments through biological programming. Engineered cells can be programmed to treat specific conditions."
+  },
+  {
+    "message": "Digital therapeutics prescription + software as medicine + evidence-based apps",
+    "nudge": "Digital therapeutics are prescribed like medications for evidence-based health improvements. FDA-approved apps provide clinical-grade interventions."
+  },
+  {
+    "message": "Technology empowerment + digital health literacy + optimal utilization",
+    "nudge": "Technology empowers chronic disease management when used optimally. Invest time in learning digital health tools for maximum benefit."
+  },
+  {
+    "message": "Innovation adoption + early technology + competitive advantage",
+    "nudge": "Early adoption of health innovations provides competitive advantages in managing chronic conditions. Stay informed about emerging technologies."
+  },
+
+  // SOCIAL SUPPORT (50 examples)
+  {
+    "message": "Support group meeting tonight + peer connection + shared experience benefits",
+    "nudge": "Tonight's support group offers peer connections with people who truly understand your experience. Shared stories often provide insights professionals can't offer."
+  },
+  {
+    "message": "Family caregiver stressed + respite care needed + support system preservation",
+    "nudge": "Your primary caregiver shows signs of stress. Arrange respite care to preserve their wellbeing - a rested caregiver provides better support."
+  },
+  {
+    "message": "Social isolation increasing + chronic illness + community engagement opportunities",
+    "nudge": "Chronic illness can lead to social isolation. Online communities, virtual events, and phone calls help maintain connections when in-person isn't possible."
+  },
+  {
+    "message": "Friend offering help + assistance acceptance + relationship strengthening",
+    "nudge": "Friends offering help want to contribute meaningfully to your wellbeing. Accepting assistance often strengthens relationships rather than burdening them."
+  },
+  {
+    "message": "Peer mentor available + experienced guidance + navigation support",
+    "nudge": "Peer mentors who've successfully navigated similar health challenges offer invaluable guidance. Their experience provides practical strategies and hope."
+  },
+  {
+    "message": "Online community active + chronic condition forum + 24/7 support availability",
+    "nudge": "Your online chronic illness community is particularly active today. Engage when you need support - these communities provide 24/7 understanding."
+  },
+  {
+    "message": "Healthcare advocate needed + complex medical decisions + professional support",
+    "nudge": "Complex medical decisions benefit from healthcare advocates. Professional advocates can help navigate insurance, treatment options, and healthcare systems."
+  },
+  {
+    "message": "Support network mapping + relationship assessment + resource identification",
+    "nudge": "Map your support network to identify gaps and strengths. Knowing who provides what type of support helps you ask for help effectively."
+  },
+  {
+    "message": "Communication barriers + family understanding + education needs",
+    "nudge": "Family members may not understand your condition fully. Share educational resources to help them provide more effective, empathetic support."
+  },
+  {
+    "message": "Reciprocal support opportunities + giving back + purpose fulfillment",
+    "nudge": "Supporting others with similar conditions fulfills purpose and creates reciprocal relationships. Your experience can guide someone beginning their journey."
+  },
+  {
+    "message": "Professional counseling + emotional support + specialized expertise",
+    "nudge": "Professional counselors specializing in chronic illness provide expertise family and friends can't offer. They understand the unique emotional challenges."
+  },
+  {
+    "message": "Workplace accommodation + colleague understanding + productivity preservation",
+    "nudge": "Workplace accommodations preserve productivity while managing health. Educate colleagues about your needs to create supportive work environments."
+  },
+  {
+    "message": "Transportation assistance + medical appointments + access barrier removal",
+    "nudge": "Transportation barriers shouldn't prevent medical care. Many communities offer medical transport services or volunteer driver programs."
+  },
+  {
+    "message": "Meal preparation support + nutrition maintenance + energy conservation",
+    "nudge": "Meal preparation support helps maintain nutrition when energy is limited. Friends often want to help - suggest specific meal preferences."
+  },
+  {
+    "message": "Emergency contact system + crisis support + immediate assistance",
+    "nudge": "Emergency contact systems ensure immediate assistance during health crises. Designate multiple contacts who understand your condition and preferences."
+  },
+  {
+    "message": "Pet therapy benefits + companion animals + emotional support",
+    "nudge": "Companion animals provide consistent emotional support for chronic illness management. Pets offer unconditional love and stress reduction."
+  },
+  {
+    "message": "Volunteer opportunities + meaningful contribution + social connection",
+    "nudge": "Volunteering provides meaningful contribution and social connection despite health limitations. Many opportunities accommodate various ability levels."
+  },
+  {
+    "message": "Faith community support + spiritual resources + congregational care",
+    "nudge": "Faith communities often provide spiritual resources and practical support. Many congregations have care ministries specifically for members with health challenges."
+  },
+  {
+    "message": "Professional patient advocacy + healthcare navigation + rights protection",
+    "nudge": "Professional patient advocates protect your healthcare rights and navigate complex medical systems. They ensure your voice is heard in treatment decisions."
+  },
+  {
+    "message": "Neighbor network activation + local community + practical assistance",
+    "nudge": "Neighbor networks provide local community support for practical needs like grocery shopping, snow removal, or emergency assistance."
+  },
+  {
+    "message": "Technology-mediated support + virtual connections + geographic barrier elimination",
+    "nudge": "Technology eliminates geographic barriers to support. Video calls, messaging apps, and social platforms maintain connections across distances."
+  },
+  {
+    "message": "Intergenerational support + wisdom sharing + mutual benefit",
+    "nudge": "Intergenerational support creates mutual benefits. Sharing your experience with younger people while learning from older adults' wisdom."
+  },
+  {
+    "message": "Cultural community connection + ethnic support groups + culturally competent care",
+    "nudge": "Cultural communities understand unique perspectives on health and illness. Seek support groups that share your cultural background and values."
+  },
+  {
+    "message": "Educational support groups + knowledge sharing + skill development",
+    "nudge": "Educational support groups combine peer support with skill development. Learn practical management techniques while building social connections."
+  },
+  {
+    "message": "Crisis intervention network + emergency emotional support + immediate assistance",
+    "nudge": "Crisis intervention networks provide immediate emotional support during mental health emergencies. Know these resources before you need them."
+  },
+  {
+    "message": "Caregiver support groups + family resources + burden sharing",
+    "nudge": "Caregiver support groups help your family members manage their own stress. Supporting your supporters strengthens your entire care network."
+  },
+  {
+    "message": "Professional case management + care coordination + system navigation",
+    "nudge": "Professional case managers coordinate complex care needs across multiple providers. They simplify healthcare navigation and ensure continuity."
+  },
+  {
+    "message": "Peer education programs + experiential teaching + mutual learning",
+    "nudge": "Peer education programs provide experiential teaching from people with lived experience. Learn from others who've successfully managed similar challenges."
+  },
+  {
+    "message": "Community resource directory + local services + assistance programs",
+    "nudge": "Community resource directories list local services and assistance programs. Many communities offer specific resources for people with chronic conditions."
+  },
+  {
+    "message": "Social prescribing + community activities + health improvement",
+    "nudge": "Social prescribing connects you with community activities that improve health. Art classes, walking groups, and volunteer work can be 'prescribed' for wellbeing."
+  },
+  {
+    "message": "Buddy system establishment + mutual support + accountability partnership",
+    "nudge": "Buddy systems create mutual support and accountability. Partner with someone facing similar challenges for encouragement and motivation."
+  },
+  {
+    "message": "Digital support platforms + online communities + 24/7 availability",
+    "nudge": "Digital support platforms provide 24/7 community access. Online support is available when in-person connections aren't possible."
+  },
+  {
+    "message": "Family therapy services + relationship counseling + communication improvement",
+    "nudge": "Family therapy improves communication about chronic illness impacts. Professional guidance helps families adapt to health-related changes."
+  },
+  {
+    "message": "Support animal training + service dogs + independence enhancement",
+    "nudge": "Trained support animals enhance independence for people with chronic conditions. Service dogs can assist with mobility, medical alerts, and daily tasks."
+  },
+  {
+    "message": "Mentorship programs + guidance relationships + experience sharing",
+    "nudge": "Mentorship programs connect you with experienced guides who've navigated similar health journeys. Their wisdom can accelerate your adaptation."
+  },
+  {
+    "message": "Community health workers + cultural navigation + resource connection",
+    "nudge": "Community health workers understand local resources and cultural contexts. They bridge gaps between healthcare systems and community needs."
+  },
+  {
+    "message": "Advocacy organizations + policy change + collective action",
+    "nudge": "Advocacy organizations work for policy changes benefiting people with chronic conditions. Join collective action for broader systemic improvements."
+  },
+  {
+    "message": "Respite care services + caregiver relief + support preservation",
+    "nudge": "Respite care services provide temporary caregiver relief. Regular breaks help preserve your support system's long-term sustainability."
+  },
+  {
+    "message": "Therapeutic recreation + adaptive activities + joy preservation",
+    "nudge": "Therapeutic recreation adapts enjoyable activities to current abilities. Maintaining joy and fun is essential for overall wellbeing."
+  },
+  {
+    "message": "Support group facilitation + leadership development + giving back",
+    "nudge": "Facilitating support groups develops leadership skills while giving back. Your experience can guide group discussions and help others."
+  },
+  {
+    "message": "Community partnerships + organizational collaboration + resource expansion",
+    "nudge": "Community partnerships expand available resources through organizational collaboration. Multiple organizations working together provide comprehensive support."
+  },
+  {
+    "message": "Cultural competency + diverse support + inclusive communities",
+    "nudge": "Culturally competent support respects diverse backgrounds and perspectives. Seek inclusive communities that honor your cultural identity."
+  },
+  {
+    "message": "Intergenerational mentoring + wisdom exchange + mutual learning",
+    "nudge": "Intergenerational mentoring creates wisdom exchange between age groups. Both younger and older adults benefit from diverse perspectives."
+  },
+  {
+    "message": "Support network resilience + relationship sustainability + long-term planning",
+    "nudge": "Support network resilience requires relationship sustainability planning. Invest in relationships during good times to strengthen them for difficulties."
+  },
+  {
+    "message": "Community building + social connection + collective wellbeing",
+    "nudge": "Community building creates social connections that benefit collective wellbeing. Strong communities support all members' health and resilience."
+  },
+  {
+    "message": "Social capital development + relationship investment + support cultivation",
+    "nudge": "Social capital development involves investing in relationships that provide mutual support. Strong social networks improve health outcomes."
+  },
+  {
+    "message": "Collective efficacy + group empowerment + shared agency",
+    "nudge": "Collective efficacy emerges when groups work together toward shared goals. Community action creates empowerment beyond individual efforts."
+  },
+  {
+    "message": "Support system optimization + network effectiveness + resource maximization",
+    "nudge": "Support system optimization maximizes network effectiveness and resource utilization. Strategic relationship building enhances available support."
+  },
+  {
+    "message": "Community resilience + collective strength + mutual aid",
+    "nudge": "Community resilience builds collective strength through mutual aid systems. Strong communities help all members weather individual crises."
+  },
+  {
+    "message": "Social support mastery + relationship expertise + connection optimization",
+    "nudge": "Social support mastery represents relationship expertise and connection optimization. You've become skilled at building and maintaining supportive relationships."
+  },
+  {
+    "message": "Support legacy + relationship wisdom + future contribution",
+    "nudge": "Your support legacy includes relationship wisdom that can benefit future generations. The connections you've built create lasting positive impact."
+  }
+]
+
+
